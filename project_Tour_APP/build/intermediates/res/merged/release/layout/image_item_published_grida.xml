@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.highnes.tour.view.layout.SquareLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/v_click_null"
+    android:orientation="vertical" >
+
+    <ImageView
+        android:id="@+id/item_grida_image"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:scaleType="centerCrop"
+        android:src="@drawable/ic_launcher" >
+    </ImageView>
+
+</com.highnes.tour.view.layout.SquareLayout>

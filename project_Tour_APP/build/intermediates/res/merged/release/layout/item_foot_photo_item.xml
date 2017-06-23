@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.highnes.tour.view.layout.SquareLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:funy="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/v_click_null"
+    android:focusable="false"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/rv_root"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerInParent="true"
+        android:background="@drawable/v_click_null" >
+
+        <com.highnes.tour.view.imageview.RoundAngleImageView
+            android:id="@+id/iv_item"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:focusable="false"
+            android:scaleType="centerCrop"
+            android:src="@drawable/ic_default_img_short"
+            funy:raiv_showTop="2" />
+    </RelativeLayout>
+
+</com.highnes.tour.view.layout.SquareLayout>

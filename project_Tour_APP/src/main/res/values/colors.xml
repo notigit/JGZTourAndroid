@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="theme_blue">#277dcc</color>
+    <color name="theme_orange">#fa8d19</color>
+    <color name="theme_black">#1d3a4c</color>
+    <color name="theme_black_tran">#88000000</color>
+    <color name="theme_red">#e56767</color>
+    <color name="black">#000000</color>
+    <color name="blue">#00a0e9</color>
+    <color name="green_sm">#02d3d1</color>
+    <color name="white">#FFFFFF</color>
+    <color name="whiteCC">#CCFFFFFF</color>
+    <!-- 浅灰色 -->
+    <color name="grayCC">#ccf1f3f0</color>
+    <!-- Title的背景颜色 -->
+    <color name="titlec">#48d3c2</color>
+    <!-- Title的背景颜色 -->
+    <color name="titlec30">#4b48d3c2</color>
+    <!-- 底部菜单文字颜色 -->
+    <color name="menu_normal">#333333</color>
+    <color name="menu_check">#48d3c2</color>
+    <!-- 分割线的颜色 -->
+    <color name="line_item">#eeeeee</color>
+    <!-- 分割线的颜色 -->
+    <color name="line_ebf1f0">#ebf1f0</color>
+    <!-- 普通字体 -->
+    <color name="font_black_normal">#333333</color>
+    <color name="font_black_666">#666666</color>
+    <color name="font_black_8a8a8a">#8a8a8a</color>
+    <color name="font_black_3c3939">#3c3939</color>
+    <!-- 灰色字体 -->
+    <color name="font_black_gray">#b2b2b2</color>
+    <!-- 绿色字体 -->
+    <color name="font_green">#39c5ab</color>
+    <!-- 水波纹颜色 -->
+    <color name="rippelColor">#e8fbf9</color>
+    <color name="btn_menu_normal">#48d3c2</color>
+    <color name="btn_menu_pressed">#7be9dc</color>
+    <!-- 页面背景颜色 -->
+    <color name="xml_bg_normal">#f0f0f0</color>
+    <color name="xml_bg_gray">#eeeeee</color>
+    <color name="xml_bg_blood">#bb5551</color>
+    <color name="xml_bg_green">#39c5ab</color>
+    <color name="xml_bg_red">#ee6f69</color>
+    <color name="xml_bg_left_fees">#b08455</color>
+    <color name="xml_bg_right_fees">#dda56c</color>
+    <color name="xml_bg_left_subsidy">#457b87</color>
+    <color name="xml_bg_right_subsidy">#589bab</color>
+    <color name="xml_bg_left_insure">#136648</color>
+    <color name="xml_bg_right_insure">#1c7d5a</color>
+    <color name="bocop_dialog_bg_loading">#00000000</color>
+    <color name="bocop_status_bg_loading">#ffffffff</color>
+    <color name="transparent">#00000000</color>
+    <color name="text_content">#ffa19d94</color>
+    <color name="ccp_green">#ff7815</color>
+    <color name="dialog_background">#fffbf6f2</color>
+    <color name="dialog_btn_press">#ffece5df</color>
+    <color name="dialog_divider">#ffe8e0da</color>
+    <color name="dialog_btn_normal">#fffbf6f2</color>
+    <color name="dialog_item_normal">#fff7f1ec</color>
+    <color name="dialog_item_press">#ffece5df</color>
+    <color name="dialog_backgroud_full">#88000000</color>
+    <color name="text_desc">#ffbebbb4</color>
+    <color name="text_title">#2b2929</color>
+    <color name="devideline_listview">#ffe5e2d4</color>
+    <color name="et_hint">#c4c4c4</color>
+    <color name="bt_register_click">#f8b482</color>
+    <color name="item_back_press">#10000000</color>
+    <!-- 菜单 -->
+    <color name="black_semi_transparent">#B2000000</color>
+    <color name="background">#e5e5e5</color>
+    <color name="half_black">#808080</color>
+    <color name="white_pressed">#f1f1f1</color>
+    <color name="pink">#e91e63</color>
+    <color name="pink_pressed">#ec407a</color>
+    <color name="blue_semi_transparent">#805677fc</color>
+    <color name="blue_semi_transparent_pressed">#80738ffe</color>
+    <!-- 日期 -->
+    <color name="calendar_active_month_bg">#fff5f7f9</color>
+    <color name="calendar_bg">#ffffffff</color>
+    <color name="calendar_divider">#ffbababa</color>
+    <color name="calendar_inactive_month_bg">#ffd7d9db</color>
+    <color name="calendar_selected_day_bg">#ff379bff</color>
+    <color name="calendar_highlighted_day_bg">#ccffcc</color>
+    <color name="calendar_selected_range_bg">#ff96caff</color>
+    <color name="calendar_text_inactive">#40778088</color>
+    <color name="calendar_text_active">#ff778088</color>
+    <color name="calendar_text_selected">#ffffffff</color>
+    <color name="calendar_text_unselectable">#7f778088</color>
+    <color name="custom_header_text">#85B100</color>
+    <color name="custom_selected">#A8D324</color>
+    <color name="custom_background">#F0F8DB</color>
+    <color name="custom_background_today">#FF9105</color>
+    <color name="custom_background_disabled">#F0F8DB</color>
+    <color name="custom_text_selected">#FFFFFFFF</color>
+    <color name="custom_text_inactive">#7f778088</color>
+    <color name="theme_black_plus">#ff9600</color>
+    <color name="home_price">#ff3b30</color>
+
+</resources>

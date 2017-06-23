@@ -1,0 +1,850 @@
+[
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_title_tab_button_left.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_title_tab_button_left.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\ytx_btn_dialog_single.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\ytx_btn_dialog_single.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\buttom_shape.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\buttom_shape.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_follow_on.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_follow_on.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_renren_off.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_renren_off.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\messenger_button_white_bg_selector.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\messenger_button_white_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\shape_radius_green5_line.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\shape_radius_green5_line.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\bottom.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\bottom.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_tx_on.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_tx_on.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\com_facebook_button_send_background.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\com_facebook_button_send_background.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\slide_image_dot_c.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\slide_image_dot_c.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\re_coupon_gray.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\re_coupon_gray.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\shape_radius_orange2.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\shape_radius_orange2.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\ytx_btn_dialog_right_press.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\ytx_btn_dialog_right_press.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_refersh.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_refersh.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_title_right_bt_normal.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_title_right_bt_normal.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_title_tab_button_right.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_title_tab_button_right.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_laiwang_dynamic.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_laiwang_dynamic.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\shape_oval_black.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\shape_oval_black.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_sidebar_selector.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_sidebar_selector.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_tumblr.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_tumblr.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_facebook_close.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_facebook_close.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\tab_selector.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\tab_selector.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_sms_on.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_sms_on.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\webview_style.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\webview_style.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\shape_radius_gray5_left.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\shape_radius_gray5_left.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\shape_update.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\shape_update.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_sidebar_selected.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_sidebar_selected.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_button_grey.9.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_button_grey.9.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_facebook.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_facebook.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\shape_oval_green.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\shape_oval_green.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_share_to_button.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_share_to_button.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\ytx_btn_dialog_left_normal.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\ytx_btn_dialog_left_normal.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_shape_solid_black.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_shape_solid_black.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\bg_foot.jpg",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\bg_foot.jpg"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\shape_radius_black2.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\shape_radius_black2.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\tag_checked_pressed.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\tag_checked_pressed.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_button_red.9.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_button_red.9.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_oauth_check_on.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_oauth_check_on.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\shape_oval_blue.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\shape_oval_blue.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_flickr_gray.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_flickr_gray.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_linkedin.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_linkedin.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\re_coupon_orange.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\re_coupon_orange.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_shareboard_item_background.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_shareboard_item_background.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_wxcircle_gray.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_wxcircle_gray.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_gmail_on.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_gmail_on.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_ynote.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_ynote.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\select_tab_4.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\select_tab_4.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_flickr.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_flickr.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_oauth_check.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_oauth_check.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_title_tab_right_pressed.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_title_tab_right_pressed.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_button_login_pressed.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_button_login_pressed.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_alipay.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_alipay.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\v_click_null.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\v_click_null.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_light_bar_bg.9.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_light_bar_bg.9.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_laiwang_gray.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_laiwang_gray.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\select_tab_0.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\select_tab_0.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\com_facebook_button_login_silver_background.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\com_facebook_button_login_silver_background.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_douban_off.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_douban_off.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_facebook_off.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_facebook_off.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_x_button.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_x_button.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\shape_radius_gray5_line.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\shape_radius_gray5_line.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_title_tab_right_normal.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_title_tab_right_normal.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_pocket_gray.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_pocket_gray.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_pocket.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_pocket.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\shape_radius_green5.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\shape_radius_green5.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\shape_radius_search_15.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\shape_radius_search_15.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\bg_circle_today.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\bg_circle_today.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_linkedin_gray.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_linkedin_gray.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\shape_radius_search_2.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\shape_radius_search_2.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\ytx_btn_dialog_single_press.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\ytx_btn_dialog_single_press.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_qq_off.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_qq_off.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_at_button.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_at_button.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\ytx_btn_dialog_right.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\ytx_btn_dialog_right.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_kakao_gray.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_kakao_gray.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\ytx_btn_dialog_right_normal.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\ytx_btn_dialog_right_normal.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\wheel_bg.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\wheel_bg.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\ytx_bg_dialog_window.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\ytx_bg_dialog_window.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_wxcircle.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_wxcircle.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_location_on.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_location_on.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_sidebar_normal.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_sidebar_normal.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\checkbox_select.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\checkbox_select.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_sms_off.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_sms_off.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\messenger_button_blue_bg_round.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\messenger_button_blue_bg_round.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_default_avatar.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_default_avatar.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_fetch_image.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_fetch_image.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_yixin.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_yixin.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_google.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_google.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_twitter.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_twitter.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\bg_circle_selected.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\bg_circle_selected.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\map_location_switch.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\map_location_switch.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\shape_radius_chat_time5.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\shape_radius_chat_time5.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_whatsapp_gray.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_whatsapp_gray.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_wechat_gray.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_wechat_gray.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\shape_radius_titlec5.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\shape_radius_titlec5.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\bg_transparent_70.9.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\bg_transparent_70.9.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\shape_oval_green_sm.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\shape_oval_green_sm.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_qzone_off.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_qzone_off.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_action_back_normal.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_action_back_normal.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\qrcode_wenxin.jpg",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\qrcode_wenxin.jpg"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\tag_checked_normal.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\tag_checked_normal.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\checkbox_select2.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\checkbox_select2.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_instagram_on.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_instagram_on.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\bg_date.9.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\bg_date.9.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\ytx_bg_dialog_listitem_selector.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\ytx_bg_dialog_listitem_selector.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_gmail_off.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_gmail_off.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\shape_radius_gray5.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\shape_radius_gray5.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\list_item_selector.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\list_item_selector.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\wheel_val.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\wheel_val.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\shape_radius_orange2_solid.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\shape_radius_orange2_solid.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_laiwang_dynamic_gray.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_laiwang_dynamic_gray.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_foursquare.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_foursquare.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\shape_radius_graycc5.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\shape_radius_graycc5.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_location_off.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_location_off.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\shape_radius_white20_line.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\shape_radius_white20_line.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_action_back.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_action_back.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_line.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_line.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\shape_radius_gray5_center.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\shape_radius_gray5_center.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\shape_radius_blue5_line.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\shape_radius_blue5_line.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\calendar_bg_selector.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\calendar_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\ytx_btn_dialog_center.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\ytx_btn_dialog_center.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\ytx_btn_dialog_center_normal.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\ytx_btn_dialog_center_normal.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_title_right_bt.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_title_right_bt.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\custom_calendar_bg_selector.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\custom_calendar_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\cb_select.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\cb_select.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\shape_radius_white5.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\shape_radius_white5.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_pinterest.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_pinterest.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\ytx_bg_dialog_btnbar.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\ytx_bg_dialog_btnbar.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_search_icon.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_search_icon.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_yixin_gray.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_yixin_gray.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_douban_on.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_douban_on.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_tumblr_gray.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_tumblr_gray.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\ytx_list_selector_transition.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\ytx_list_selector_transition.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_kakao.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_kakao.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_button_grey_blue.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_button_grey_blue.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\bg_date_p.9.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\bg_date_p.9.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\shape_radius_white_5.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\shape_radius_white_5.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_window_shadow_pad.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_window_shadow_pad.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\qrcode_app.jpg",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\qrcode_app.jpg"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_laiwang.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_laiwang.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\background_tab.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\background_tab.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_title_back_bt.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_title_back_bt.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_title_right_bt_selected.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_title_right_bt_selected.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\fab_label_background.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\fab_label_background.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\shape_oval_red.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\shape_oval_red.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\select_tab_1.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\select_tab_1.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_share_transparent_corner.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_share_transparent_corner.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_qzone_on.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_qzone_on.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_action_back_selected.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_action_back_selected.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\search_bar_edit_selector.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\search_bar_edit_selector.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\shape_radius_green20.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\shape_radius_green20.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\shape_radius_gray5_right.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\shape_radius_gray5_right.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_location_ic.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_location_ic.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_evernote_gray.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_evernote_gray.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\ytx_btn_dialog_center_press.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\ytx_btn_dialog_center_press.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_instagram_off.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_instagram_off.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\bg_find_item.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\bg_find_item.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_title_tab_left_pressed.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_title_tab_left_pressed.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_button_login.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_button_login.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\shape_radius_green5_line_t.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\shape_radius_green5_line_t.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\ytx_btn_dialog_left_press.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\ytx_btn_dialog_left_press.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\sidebar_background.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\sidebar_background.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_pinterest_gray.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_pinterest_gray.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\shape_radius_white5_bottom.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\shape_radius_white5_bottom.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_evernote.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_evernote.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_at_selected.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_at_selected.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_foursquare_gray.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_foursquare_gray.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\bg_dialog_selector.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\bg_dialog_selector.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_oauth_check_off.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_oauth_check_off.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\shape_oval_orange.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\shape_oval_orange.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\com_facebook_button_background.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\com_facebook_button_background.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_button_white.9.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_button_white.9.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_title_back_bt_normal.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_title_back_bt_normal.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_button_blue.9.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_button_blue.9.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_renren_on.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_renren_on.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_line_gray.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_line_gray.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\shape_radius_white5_top.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\shape_radius_white5_top.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\select_tab_2.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\select_tab_2.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_qq_on.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_qq_on.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\shape_radius_gray2_line.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\shape_radius_gray2_line.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_follow_off.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_follow_off.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\ytx_btn_dialog.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\ytx_btn_dialog.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\shape_radius_orange_5_solid.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\shape_radius_orange_5_solid.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\room_rating_bar_big.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\room_rating_bar_big.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_yixin_circle.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_yixin_circle.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\select_tab_3.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\select_tab_3.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_wechat.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_wechat.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\com_facebook_button_like_background.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\com_facebook_button_like_background.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_button_red_blue.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_button_red_blue.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_sina_on.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_sina_on.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\v_click_white.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\v_click_white.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\ytx_btn_dialog_single_normal.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\ytx_btn_dialog_single_normal.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_button_white_blue.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_button_white_blue.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\messenger_button_white_bg_round.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\messenger_button_white_bg_round.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_yixin_circle_gray.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_yixin_circle_gray.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_ynote_gray.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_ynote_gray.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_title_back_bt_selected.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_title_back_bt_selected.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\messenger_button_blue_bg_selector.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\messenger_button_blue_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_bind_bg.9.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_bind_bg.9.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_nav_bar_bg.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_nav_bar_bg.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_sina_off.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_sina_off.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_whatsapp.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_whatsapp.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\shape_radius_black2_tran.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\shape_radius_black2_tran.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\ytx_btn_dialog_left.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\ytx_btn_dialog_left.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_tx_off.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_tx_off.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_title_tab_left_normal.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_title_tab_left_normal.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_shape_solid_grey.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_shape_solid_grey.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_follow_check.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_follow_check.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_at_normal.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_at_normal.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\shape_radius_titlec2.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\shape_radius_titlec2.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\shape_radius_gray5_toast.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable\\shape_radius_gray5_toast.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_button_login_normal.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_button_login_normal.png"
+    }
+]

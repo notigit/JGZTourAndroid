@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">金龟子旅行</string>
+    <string name="hello_world">Hello world!</string>
+    <!-- 下拉刷新上拉加载 -->
+    <string name="pull_to_refresh">下拉刷新</string>
+    <string name="release_to_refresh">释放立即刷新</string>
+    <string name="refreshing">正在刷新…</string>
+    <string name="refresh_succeed">刷新成功</string>
+    <string name="refresh_fail">刷新失败</string>
+    <string name="pullup_to_load">上拉加载更多</string>
+    <string name="release_to_load">释放立即加载</string>
+    <string name="load_fail">加载失败</string>
+    <string name="loading">正在加载…</string>
+    <string name="load_succeed">加载成功</string>
+    <string name="load_nodata">没有更多数据</string>
+    <string name="dialog_title_alert">提示</string>
+    <string name="dialog_btn_confim">确认</string>
+    <string name="dialog_btn_cancel">取消</string>
+    <string name="folder_all">所有图片</string>
+    <string name="preview">预览</string>
+    <string name="msg_no_camera">找不到系统相机</string>
+    <string name="msg_amount_limit">超过图片限制</string>
+    <string name="go_select">图片选择</string>
+    <string name="hint_content_null">暂无数据</string>
+    <!-- 性别 -->
+    <string-array name="sex">
+        <item>男</item>
+        <item>女</item>
+    </string-array>
+    <string-array name="change_avatar">
+        <item>相册</item>
+        <item>拍照</item>
+    </string-array>
+    <string-array name="ticket_menu_nearby_left">
+        <item>附近</item>
+        <item>热门</item>
+    </string-array>
+    <string-array name="ticket_menu_nearby_left_hot">
+        <item>附近</item>
+        <item>热门</item>
+    </string-array>
+    <string-array name="ticket_menu_nearby_hot">
+        <item>热门</item>
+    </string-array>
+
+    <!-- 日期 -->
+    <string name="day_name_format">EEE</string>
+    <string name="invalid_date">请选择%1$s 与 %2$s之间的日期</string>
+    <string name="month_name_format">MMMM yyyy</string>
+
+    <!-- 分享 -->
+    <string name="share_title">旅我同行 畅想人生</string>
+    <string name="share_text">金龟子旅行APP,注册即得大礼包!快来加入体验吧！</string>
+
+    <!-- 订单-PHP -->
+    <string-array name="php_order_state">
+        <item>待支付,1</item>
+        <item>商家待确认,2</item>
+        <item>商家待发货,3</item>
+        <item>商家已发货,4</item>
+        <item>待评论,5</item>
+        <item>待使用,6</item>
+        <item>待收货,7</item>
+        <item>已完成,8</item>
+        <item>申请退货,9</item>
+        <item>待退款,10</item>
+        <item>拒绝退款,11</item>
+        <item>退款完成,12</item>
+    </string-array>
+
+</resources>

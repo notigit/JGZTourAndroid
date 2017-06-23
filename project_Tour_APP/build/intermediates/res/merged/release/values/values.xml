@@ -1,0 +1,1245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="area">
+        <item>#A阿里地区</item>
+        <item>安庆市</item>
+        <item>阿坝藏族羌族自治州</item>
+        <item>阿拉善盟</item>
+        <item>安顺市</item>
+        <item>安阳市</item>
+        <item>澳门特别行政区</item>
+        <item>鞍山市</item>
+        <item>安康市</item>
+        <item>阿克苏地区</item>
+        <item>阿勒泰地区</item>
+        <item>#B保山市</item>
+        <item>蚌埠市</item>
+        <item>北京市</item>
+        <item>巴彦淖尔市</item>
+        <item>宝鸡市</item>
+        <item>百色市</item>
+        <item>毕节地区</item>
+        <item>本溪市</item>
+        <item>包头市</item>
+        <item>滨州市</item>
+        <item>巴中市</item>
+        <item>北海市</item>
+        <item>保定市</item>
+        <item>白银市</item>
+        <item>白城市</item>
+        <item>白山市</item>
+        <item>巴音郭楞蒙古自治州</item>
+        <item>博尔塔拉蒙古自治州</item>
+        <item>#C楚雄彝族自治州</item>
+        <item>崇左市</item>
+        <item>沧州市</item>
+        <item>长沙市</item>
+        <item>滁州市</item>
+        <item>潮州市</item>
+        <item>承德市</item>
+        <item>常德市</item>
+        <item>巢湖市</item>
+        <item>郴州市</item>
+        <item>朝阳市</item>
+        <item>赤峰市</item>
+        <item>池州市</item>
+        <item>常州市</item>
+        <item>长治市</item>
+        <item>长春市</item>
+        <item>成都市</item>
+        <item>昌吉回族自治州</item>
+        <item>昌都地区</item>
+        <item>#D大理白族自治州</item>
+        <item>迪庆藏族自治州</item>
+        <item>德宏傣族景颇族自治州</item>
+        <item>东莞市</item>
+        <item>东沙群岛</item>
+        <item>定西市</item>
+        <item>大连市</item>
+        <item>东营市</item>
+        <item>丹东市</item>
+        <item>大同市</item>
+        <item>达州市</item>
+        <item>德州市</item>
+        <item>大兴安岭地区</item>
+        <item>大庆市</item>
+        <item>德阳市</item>
+        <item>#E鄂州市</item>
+        <item>鄂尔多斯市</item>
+        <item>恩施土家族苗族自治州</item>
+        <item>#F阜阳市</item>
+        <item>佛山市</item>
+        <item>抚顺市</item>
+        <item>防城港市</item>
+        <item>抚州市</item>
+        <item>福州市</item>
+        <item>阜新市</item>
+        <item>#G桂林市</item>
+        <item>贵阳市</item>
+        <item>广安市</item>
+        <item>固原市</item>
+        <item>甘南藏族自治州</item>
+        <item>广州市</item>
+        <item>广元市</item>
+        <item>贵港市</item>
+        <item>赣州市</item>
+        <item>果洛藏族自治州</item>
+        <item>甘孜藏族自治州</item>
+        <item>#H红河哈尼族彝族自治州</item>
+        <item>海口市</item>
+        <item>合肥市</item>
+        <item>河池市</item>
+        <item>邯郸市</item>
+        <item>衡阳市</item>
+        <item>淮安市</item>
+        <item>杭州市</item>
+        <item>河源市</item>
+        <item>衡水市</item>
+        <item>鹤壁市</item>
+        <item>淮南市</item>
+        <item>黄山市</item>
+        <item>淮北市</item>
+        <item>贺州市</item>
+        <item>黄冈市</item>
+        <item>湖州市</item>
+        <item>惠州市</item>
+        <item>黄石市</item>
+        <item>葫芦岛市</item>
+        <item>呼和浩特市</item>
+        <item>汉中市</item>
+        <item>菏泽市</item>
+        <item>怀化市</item>
+        <item>黑河市</item>
+        <item>鹤岗市</item>
+        <item>哈尔滨市</item>
+        <item>呼伦贝尔市</item>
+        <item>海西蒙古族藏族自治州</item>
+        <item>海北藏族自治州</item>
+        <item>海南藏族自治州</item>
+        <item>海东地区</item>
+        <item>黄南藏族自治州</item>
+        <item>和田地区</item>
+        <item>哈密地区</item>
+        <item>#J济源市</item>
+        <item>荆州市</item>
+        <item>锦州市</item>
+        <item>焦作市</item>
+        <item>荆门市</item>
+        <item>景德镇市</item>
+        <item>晋中市</item>
+        <item>揭阳市</item>
+        <item>济宁市</item>
+        <item>济南市</item>
+        <item>晋城市</item>
+        <item>江门市</item>
+        <item>吉安市</item>
+        <item>金华市</item>
+        <item>嘉兴市</item>
+        <item>嘉峪关市</item>
+        <item>九江市</item>
+        <item>金昌市</item>
+        <item>酒泉市</item>
+        <item>佳木斯市</item>
+        <item>鸡西市</item>
+        <item>吉林市</item>
+        <item>#K昆明市</item>
+        <item>开封市</item>
+        <item>喀什地区</item>
+        <item>克孜勒苏柯尔克孜自治州</item>
+        <item>克拉玛依市</item>
+        <item>#L拉萨市</item>
+        <item>临沧市</item>
+        <item>丽江市</item>
+        <item>莱芜市</item>
+        <item>六盘水市</item>
+        <item>洛阳市</item>
+        <item>临夏回族自治州</item>
+        <item>辽源市</item>
+        <item>廊坊市</item>
+        <item>龙岩市</item>
+        <item>来宾市</item>
+        <item>娄底市</item>
+        <item>临沂市</item>
+        <item>陇南市</item>
+        <item>丽水市</item>
+        <item>六安市</item>
+        <item>柳州市</item>
+        <item>吕梁市</item>
+        <item>连云港市</item>
+        <item>辽阳市</item>
+        <item>聊城市</item>
+        <item>临汾市</item>
+        <item>兰州市</item>
+        <item>乐山市</item>
+        <item>凉山彝族自治州</item>
+        <item>林芝地区</item>
+        <item>#M茂名市</item>
+        <item>梅州市</item>
+        <item>绵阳市</item>
+        <item>马鞍山市</item>
+        <item>牡丹江市</item>
+        <item>眉山市</item>
+        <item>#N那曲地区</item>
+        <item>怒江傈僳族自治州</item>
+        <item>南平市</item>
+        <item>南通市</item>
+        <item>南昌市</item>
+        <item>宁波市</item>
+        <item>宁德市</item>
+        <item>内江市</item>
+        <item>南宁市</item>
+        <item>南充市</item>
+        <item>南阳市</item>
+        <item>南京市</item>
+        <item>普洱市</item>
+        <item>#P莆田市</item>
+        <item>平顶山市</item>
+        <item>盘锦市</item>
+        <item>萍乡市</item>
+        <item>平凉市</item>
+        <item>攀枝花市</item>
+        <item>#Q泉州市</item>
+        <item>庆阳市</item>
+        <item>钦州市</item>
+        <item>秦皇岛市</item>
+        <item>清远市</item>
+        <item>青岛市</item>
+        <item>曲靖市</item>
+        <item>黔南布依族苗族自治州</item>
+        <item>黔东南苗族侗族自治州</item>
+        <item>黔西南布依族苗族自治州</item>
+        <item>齐齐哈尔市</item>
+        <item>七台河市</item>
+        <item>#R日喀则地区</item>
+        <item>日照市</item>
+        <item>#S三亚市</item>
+        <item>韶关市</item>
+        <item>石家庄市</item>
+        <item>商丘市</item>
+        <item>三门峡市</item>
+        <item>十堰市</item>
+        <item>苏州市</item>
+        <item>朔州市</item>
+        <item>三明市</item>
+        <item>邵阳市</item>
+        <item>宿迁市</item>
+        <item>商洛市</item>
+        <item>上海市</item>
+        <item>绍兴市</item>
+        <item>汕头市</item>
+        <item>遂宁市</item>
+        <item>石嘴山市</item>
+        <item>汕尾市</item>
+        <item>深圳市</item>
+        <item>上饶市</item>
+        <item>宿州市</item>
+        <item>随州市</item>
+        <item>绥化市</item>
+        <item>双鸭山市</item>
+        <item>松原市</item>
+        <item>四平市</item>
+        <item>沈阳市</item>
+        <item>山南地区</item>
+        <item>#T通化市</item>
+        <item>太原市</item>
+        <item>天水市</item>
+        <item>铜仁地区</item>
+        <item>铜川市</item>
+        <item>台州市</item>
+        <item>唐山市</item>
+        <item>泰州市</item>
+        <item>泰安市</item>
+        <item>天津市</item>
+        <item>铜陵市</item>
+        <item>铁岭市</item>
+        <item>通辽市</item>
+        <item>吐鲁番地区</item>
+        <item>塔城地区</item>
+        <item>#W武威市</item>
+        <item>乌海市</item>
+        <item>芜湖市</item>
+        <item>乌兰察布市</item>
+        <item>渭南市</item>
+        <item>威海市</item>
+        <item>文山壮族苗族自治州</item>
+        <item>温州市</item>
+        <item>武汉市</item>
+        <item>潍坊市</item>
+        <item>梧州市</item>
+        <item>无锡市</item>
+        <item>吴忠市</item>
+        <item>乌鲁木齐市</item>
+        <item>#X西双版纳傣族自治州</item>
+        <item>新乡市</item>
+        <item>许昌市</item>
+        <item>襄樊市</item>
+        <item>新余市</item>
+        <item>宣城市</item>
+        <item>厦门市</item>
+        <item>信阳市</item>
+        <item>西安市</item>
+        <item>邢台市</item>
+        <item>湘西土家族苗族自治州</item>
+        <item>香港特别行政区</item>
+        <item>孝感市</item>
+        <item>湘潭市</item>
+        <item>徐州市</item>
+        <item>咸阳市</item>
+        <item>咸宁市</item>
+        <item>忻州市</item>
+        <item>兴安盟</item>
+        <item>锡林郭勒盟</item>
+        <item>西宁市</item>
+        <item>#Y玉溪市</item>
+        <item>宜宾市</item>
+        <item>阳江市</item>
+        <item>岳阳市</item>
+        <item>盐城市</item>
+        <item>榆林市</item>
+        <item>云浮市</item>
+        <item>宜昌市</item>
+        <item>益阳市</item>
+        <item>宜春市</item>
+        <item>鹰潭市</item>
+        <item>营口市</item>
+        <item>延安市</item>
+        <item>永州市</item>
+        <item>烟台市</item>
+        <item>运城市</item>
+        <item>扬州市</item>
+        <item>阳泉市</item>
+        <item>银川市</item>
+        <item>玉林市</item>
+        <item>伊春市</item>
+        <item>延边朝鲜族自治州</item>
+        <item>玉树藏族自治州</item>
+        <item>雅安市</item>
+        <item>伊犁哈萨克自治州</item>
+        <item>#Z张掖市</item>
+        <item>重庆市</item>
+        <item>珠海市</item>
+        <item>镇江市</item>
+        <item>枣庄市</item>
+        <item>中卫市</item>
+        <item>中山市</item>
+        <item>亳州市</item>
+        <item>湛江市</item>
+        <item>濮阳市</item>
+        <item>株洲市</item>
+        <item>资阳市</item>
+        <item>衢州市</item>
+        <item>舟山市</item>
+        <item>漳州市</item>
+        <item>遵义市</item>
+        <item>张家口市</item>
+        <item>郑州市</item>
+        <item>驻马店市</item>
+        <item>周口市</item>
+        <item>张家界市</item>
+        <item>泸州市</item>
+        <item>昭通市</item>
+        <item>肇庆市</item>
+        <item>漯河市</item>
+        <item>淄博市</item>
+        <item>自贡市</item>
+    </string-array>
+    <string-array name="change_avatar">
+        <item>相册</item>
+        <item>拍照</item>
+    </string-array>
+    <string-array name="php_order_state">
+        <item>待支付,1</item>
+        <item>商家待确认,2</item>
+        <item>商家待发货,3</item>
+        <item>商家已发货,4</item>
+        <item>待评论,5</item>
+        <item>待使用,6</item>
+        <item>待收货,7</item>
+        <item>已完成,8</item>
+        <item>申请退货,9</item>
+        <item>待退款,10</item>
+        <item>拒绝退款,11</item>
+        <item>退款完成,12</item>
+    </string-array>
+    <string-array name="sex">
+        <item>男</item>
+        <item>女</item>
+    </string-array>
+    <string-array name="ticket_menu_nearby_hot">
+        <item>热门</item>
+    </string-array>
+    <string-array name="ticket_menu_nearby_left">
+        <item>附近</item>
+        <item>热门</item>
+    </string-array>
+    <string-array name="ticket_menu_nearby_left_hot">
+        <item>附近</item>
+        <item>热门</item>
+    </string-array>
+    <color name="background">#e5e5e5</color>
+    <color name="black">#000000</color>
+    <color name="black_semi_transparent">#B2000000</color>
+    <color name="blue">#00a0e9</color>
+    <color name="blue_semi_transparent">#805677fc</color>
+    <color name="blue_semi_transparent_pressed">#80738ffe</color>
+    <color name="bocop_dialog_bg_loading">#00000000</color>
+    <color name="bocop_status_bg_loading">#ffffffff</color>
+    <color name="bt_register_click">#f8b482</color>
+    <color name="btn_menu_normal">#48d3c2</color>
+    <color name="btn_menu_pressed">#7be9dc</color>
+    <color name="calendar_active_month_bg">#fff5f7f9</color>
+    <color name="calendar_bg">#ffffffff</color>
+    <color name="calendar_divider">#ffbababa</color>
+    <color name="calendar_highlighted_day_bg">#ccffcc</color>
+    <color name="calendar_inactive_month_bg">#ffd7d9db</color>
+    <color name="calendar_selected_day_bg">#ff379bff</color>
+    <color name="calendar_selected_range_bg">#ff96caff</color>
+    <color name="calendar_text_active">#ff778088</color>
+    <color name="calendar_text_inactive">#40778088</color>
+    <color name="calendar_text_selected">#ffffffff</color>
+    <color name="calendar_text_unselectable">#7f778088</color>
+    <color name="ccp_green">#ff7815</color>
+    <color name="com_facebook_blue">#3B5998</color>
+    <color name="com_facebook_button_background_color">#415dae</color>
+    <color name="com_facebook_button_background_color_disabled">#bdc1c9</color>
+    <color name="com_facebook_button_background_color_pressed">#2f477a</color>
+    <color name="com_facebook_button_like_background_color_selected">#7c8fc8</color>
+    <color name="com_facebook_button_login_silver_background_color">#f4f6f8</color>
+    <color name="com_facebook_button_login_silver_background_color_pressed">#e9eaf0</color>
+    <color name="com_facebook_button_send_background_color">#0084ff</color>
+    <color name="com_facebook_button_send_background_color_pressed">#006fff</color>
+    <color name="com_facebook_likeboxcountview_border_color">#6a7180</color>
+    <color name="com_facebook_likeboxcountview_text_color">#6a7180</color>
+    <color name="com_facebook_likeview_text_color">#6a7180</color>
+    <color name="com_facebook_share_button_text_color">#FFFFFF</color>
+    <color name="custom_background">#F0F8DB</color>
+    <color name="custom_background_disabled">#F0F8DB</color>
+    <color name="custom_background_today">#FF9105</color>
+    <color name="custom_header_text">#85B100</color>
+    <color name="custom_selected">#A8D324</color>
+    <color name="custom_text_inactive">#7f778088</color>
+    <color name="custom_text_selected">#FFFFFFFF</color>
+    <color name="devideline_listview">#ffe5e2d4</color>
+    <color name="dialog_backgroud_full">#88000000</color>
+    <color name="dialog_background">#fffbf6f2</color>
+    <color name="dialog_btn_normal">#fffbf6f2</color>
+    <color name="dialog_btn_press">#ffece5df</color>
+    <color name="dialog_divider">#ffe8e0da</color>
+    <color name="dialog_item_normal">#fff7f1ec</color>
+    <color name="dialog_item_press">#ffece5df</color>
+    <color name="et_hint">#c4c4c4</color>
+    <color name="font_black_3c3939">#3c3939</color>
+    <color name="font_black_666">#666666</color>
+    <color name="font_black_8a8a8a">#8a8a8a</color>
+    <color name="font_black_gray">#b2b2b2</color>
+    <color name="font_black_normal">#333333</color>
+    <color name="font_green">#39c5ab</color>
+    <color name="grayCC">#ccf1f3f0</color>
+    <color name="green_sm">#02d3d1</color>
+    <color name="half_black">#808080</color>
+    <color name="home_price">#ff3b30</color>
+    <color name="item_back_press">#10000000</color>
+    <color name="line_ebf1f0">#ebf1f0</color>
+    <color name="line_item">#eeeeee</color>
+    <color name="menu_check">#48d3c2</color>
+    <color name="menu_normal">#333333</color>
+    <color name="pink">#e91e63</color>
+    <color name="pink_pressed">#ec407a</color>
+    <color name="rippelColor">#e8fbf9</color>
+    <color name="text_content">#ffa19d94</color>
+    <color name="text_desc">#ffbebbb4</color>
+    <color name="text_title">#2b2929</color>
+    <color name="theme_black">#1d3a4c</color>
+    <color name="theme_black_plus">#ff9600</color>
+    <color name="theme_black_tran">#88000000</color>
+    <color name="theme_blue">#277dcc</color>
+    <color name="theme_orange">#fa8d19</color>
+    <color name="theme_red">#e56767</color>
+    <color name="titlec">#48d3c2</color>
+    <color name="titlec30">#4b48d3c2</color>
+    <color name="transparent">#00000000</color>
+    <color name="umeng_socialize_color_group">#2c3035</color>
+    <color name="umeng_socialize_comments_bg">#F4F4F4</color>
+    <color name="umeng_socialize_divider">#E6E6E6</color>
+    <color name="umeng_socialize_edit_bg">#C4C4C4</color>
+    <color name="umeng_socialize_grid_divider_line">#F8F8F8</color>
+    <color name="umeng_socialize_list_item_bgcolor">#FFFFFF</color>
+    <color name="umeng_socialize_list_item_textcolor">#333333</color>
+    <color name="umeng_socialize_text_friends_list">#959696</color>
+    <color name="umeng_socialize_text_share_content">#666666</color>
+    <color name="umeng_socialize_text_time">#999999</color>
+    <color name="umeng_socialize_text_title">#464f61</color>
+    <color name="umeng_socialize_text_ucenter">#595959</color>
+    <color name="umeng_socialize_ucenter_bg">#EEEEEE</color>
+    <color name="white">#FFFFFF</color>
+    <color name="whiteCC">#CCFFFFFF</color>
+    <color name="white_pressed">#f1f1f1</color>
+    <color name="xml_bg_blood">#bb5551</color>
+    <color name="xml_bg_gray">#eeeeee</color>
+    <color name="xml_bg_green">#39c5ab</color>
+    <color name="xml_bg_left_fees">#b08455</color>
+    <color name="xml_bg_left_insure">#136648</color>
+    <color name="xml_bg_left_subsidy">#457b87</color>
+    <color name="xml_bg_normal">#f0f0f0</color>
+    <color name="xml_bg_red">#ee6f69</color>
+    <color name="xml_bg_right_fees">#dda56c</color>
+    <color name="xml_bg_right_insure">#1c7d5a</color>
+    <color name="xml_bg_right_subsidy">#589bab</color>
+    <declare-styleable name="AddFloatingActionButton"><attr format="color" name="fab_plusIconColor"/></declare-styleable>
+    <declare-styleable name="CalendarPickerView"><attr name="android:background"/><attr format="color" name="dividerColor"/><attr format="reference" name="dayBackground"/><attr format="color" name="dayTextColor"/><attr format="color" name="titleTextColor"/><attr format="boolean" name="displayHeader"/><attr format="color" name="headerTextColor"/></declare-styleable>
+    <declare-styleable name="CircleImageView"><attr format="dimension" name="border_width"/><attr format="color" name="border_color"/></declare-styleable>
+    <declare-styleable name="CircularProgress"><attr format="dimension" name="borderWidth"/></declare-styleable>
+    <declare-styleable name="ExpandableLayout"><attr format="reference" name="el_headerLayout"/><attr format="reference" name="el_contentLayout"/><attr format="integer" name="el_duration"/></declare-styleable>
+    <declare-styleable name="FloatingActionButton"><attr format="color" name="fab_colorPressed"/><attr format="color" name="fab_colorDisabled"/><attr format="color" name="fab_colorNormal"/><attr format="reference" name="fab_icon"/><attr format="enum" name="fab_size">
+            <enum name="normal" value="0"/>
+            <enum name="mini" value="1"/>
+        </attr><attr format="string" name="fab_title"/><attr format="boolean" name="fab_stroke_visible"/></declare-styleable>
+    <declare-styleable name="FloatingActionsMenu"><attr format="color" name="fab_addButtonColorPressed"/><attr format="color" name="fab_addButtonColorNormal"/><attr format="enum" name="fab_addButtonSize">
+            <enum name="normal" value="0"/>
+            <enum name="mini" value="1"/>
+        </attr><attr format="color" name="fab_addButtonPlusIconColor"/><attr format="boolean" name="fab_addButtonStrokeVisible"/><attr format="reference" name="fab_labelStyle"/><attr format="enum" name="fab_labelsPosition">
+            <enum name="left" value="0"/>
+            <enum name="right" value="1"/>
+        </attr><attr format="enum" name="fab_expandDirection">
+            <enum name="up" value="0"/>
+            <enum name="down" value="1"/>
+            <enum name="left" value="2"/>
+            <enum name="right" value="3"/>
+        </attr></declare-styleable>
+    <declare-styleable name="FlowLayout"><attr format="dimension" name="horizontalSpacing"/><attr format="dimension" name="verticalSpacing"/><attr format="enum" name="orientation">
+            <enum name="horizontal" value="0"/>
+            <enum name="vertical" value="1"/>
+        </attr><attr format="boolean" name="debugDraw"/></declare-styleable>
+    <declare-styleable name="FlowLayout_LayoutParams"><attr format="boolean" name="layout_newLine"/><attr format="dimension" name="layout_horizontalSpacing"/><attr format="dimension" name="layout_verticalSpacing"/></declare-styleable>
+    <declare-styleable name="PagerSlidingTabStrip"><attr format="color" name="pstsIndicatorColor"/><attr format="color" name="pstsUnderlineColor"/><attr format="color" name="pstsDividerColor"/><attr format="dimension" name="pstsIndicatorHeight"/><attr format="dimension" name="pstsUnderlineHeight"/><attr format="dimension" name="pstsDividerPadding"/><attr format="dimension" name="pstsTabPaddingLeftRight"/><attr format="dimension" name="pstsScrollOffset"/><attr format="reference" name="pstsTabBackground"/><attr format="boolean" name="pstsShouldExpand"/><attr format="boolean" name="pstsTextAllCaps"/><attr format="color" name="selectedTabTextColor"/></declare-styleable>
+    <declare-styleable name="RatingBar"><attr format="dimension" name="starDistance"/><attr format="dimension" name="starSize"/><attr format="integer" name="starCount"/><attr format="reference" name="starEmpty"/><attr format="reference" name="starFill"/></declare-styleable>
+    <declare-styleable name="RippleView"><attr format="integer" name="rv_alpha"/><attr format="integer" name="rv_framerate"/><attr format="integer" name="rv_rippleDuration"/><attr format="integer" name="rv_zoomDuration"/><attr format="color" name="rv_color"/><attr format="boolean" name="rv_centered"/><attr format="enum" name="rv_type">
+            <enum name="simpleRipple" value="0"/>
+            <enum name="doubleRipple" value="1"/>
+            <enum name="rectangle" value="2"/>
+        </attr><attr format="dimension" name="rv_ripplePadding"/><attr format="boolean" name="rv_zoom"/><attr format="float" name="rv_zoomScale"/></declare-styleable>
+    <declare-styleable name="RoundAngleImageView"><attr format="integer" name="raiv_showTop"/></declare-styleable>
+    <declare-styleable name="ToggleButton"><attr format="dimension" name="borderWidths"/><attr format="reference|color" name="offBorderColor"/><attr format="reference|color" name="offColor"/><attr format="reference|color" name="onColor"/><attr format="reference|color" name="spotColor"/><attr format="reference|boolean" name="animate"/></declare-styleable>
+    <declare-styleable name="calendar_cell"><attr format="boolean" name="state_selectable"/><attr format="boolean" name="state_current_month"/><attr format="boolean" name="state_today"/><attr format="boolean" name="state_range_first"/><attr format="boolean" name="state_range_middle"/><attr format="boolean" name="state_range_last"/><attr format="boolean" name="state_highlighted"/></declare-styleable>
+    <declare-styleable name="com_facebook_like_view"><attr format="color" name="com_facebook_foreground_color"/><attr format="string" name="com_facebook_object_id"/><attr name="com_facebook_object_type">
+            
+            <enum name="unknown" value="0"/>
+            <enum name="open_graph" value="1"/>
+            <enum name="page" value="2"/>
+        </attr><attr name="com_facebook_style">
+            
+            <enum name="standard" value="0"/>
+            <enum name="button" value="1"/>
+            <enum name="box_count" value="2"/>
+        </attr><attr name="com_facebook_auxiliary_view_position">
+            
+            <enum name="bottom" value="0"/>
+            <enum name="inline" value="1"/>
+            <enum name="top" value="2"/>
+        </attr><attr name="com_facebook_horizontal_alignment">
+            
+            <enum name="center" value="0"/>
+            <enum name="left" value="1"/>
+            <enum name="right" value="2"/>
+        </attr></declare-styleable>
+    <declare-styleable name="com_facebook_login_view"><attr format="boolean" name="com_facebook_confirm_logout"/><attr format="string" name="com_facebook_login_text"/><attr format="string" name="com_facebook_logout_text"/><attr name="com_facebook_tooltip_mode">
+            
+            <enum name="automatic" value="0"/>
+            <enum name="display_always" value="1"/>
+            <enum name="never_display" value="2"/>
+        </attr></declare-styleable>
+    <declare-styleable name="com_facebook_profile_picture_view"><attr name="com_facebook_preset_size">
+            
+            <enum name="small" value="-2"/>
+            <enum name="normal" value="-3"/>
+            <enum name="large" value="-4"/>
+        </attr><attr format="boolean" name="com_facebook_is_cropped"/></declare-styleable>
+    <dimen name="MinDialogWidth">320.0dip</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="address_heigth">30dp</dimen>
+    <dimen name="alphabet_size">12dip</dimen>
+    <dimen name="bottom_menu_heigth">65dp</dimen>
+    <dimen name="bottom_menu_heigth_normal">55dp</dimen>
+    <dimen name="btn_height">55dp</dimen>
+    <dimen name="calendar_day_headers_paddingbottom">4dp</dimen>
+    <dimen name="calendar_month_title_bottommargin">4dp</dimen>
+    <dimen name="calendar_month_topmargin">16dp</dimen>
+    <dimen name="calendar_text_medium">18sp</dimen>
+    <dimen name="calendar_text_small">14sp</dimen>
+    <dimen name="com_facebook_likeboxcountview_border_radius">3dp</dimen>
+    <dimen name="com_facebook_likeboxcountview_border_width">1dp</dimen>
+    <dimen name="com_facebook_likeboxcountview_caret_height">3dp</dimen>
+    <dimen name="com_facebook_likeboxcountview_caret_width">6dp</dimen>
+    <dimen name="com_facebook_likeboxcountview_text_padding">6dp</dimen>
+    <dimen name="com_facebook_likeboxcountview_text_size">11.0sp</dimen>
+    <dimen name="com_facebook_likeview_edge_padding">2dp</dimen>
+    <dimen name="com_facebook_likeview_internal_padding">6dp</dimen>
+    <dimen name="com_facebook_likeview_text_size">11.0sp</dimen>
+    <dimen name="com_facebook_profilepictureview_preset_size_large">180dp</dimen>
+    <dimen name="com_facebook_profilepictureview_preset_size_normal">100dp</dimen>
+    <dimen name="com_facebook_profilepictureview_preset_size_small">50dp</dimen>
+    <dimen name="com_facebook_share_button_compound_drawable_padding">12dp</dimen>
+    <dimen name="com_facebook_share_button_padding_bottom">12dp</dimen>
+    <dimen name="com_facebook_share_button_padding_left">12dp</dimen>
+    <dimen name="com_facebook_share_button_padding_right">16dp</dimen>
+    <dimen name="com_facebook_share_button_padding_top">12dp</dimen>
+    <dimen name="com_facebook_share_button_text_size">16.0sp</dimen>
+    <dimen name="com_facebook_tooltip_horizontal_padding">10dp</dimen>
+    <dimen name="common_margin">12.0dip</dimen>
+    <dimen name="common_margin_10">10.0dip</dimen>
+    <dimen name="dialog_padding">15.0dip</dimen>
+    <dimen name="dialog_round_radius">4.0dip</dimen>
+    <dimen name="dimen_margin_circle">4dp</dimen>
+    <dimen name="dimen_margin_circle.negative">-4dp</dimen>
+    <dimen name="edittext_height">45dp</dimen>
+    <dimen name="fab_actions_spacing">10dp</dimen>
+    <dimen name="fab_icon_size">24dp</dimen>
+    <dimen name="fab_labels_margin">8dp</dimen>
+    <dimen name="fab_plus_icon_size">14dp</dimen>
+    <dimen name="fab_plus_icon_stroke">2dp</dimen>
+    <dimen name="fab_shadow_offset">3dp</dimen>
+    <dimen name="fab_shadow_radius">9dp</dimen>
+    <dimen name="fab_size_mini">40dp</dimen>
+    <dimen name="fab_size_normal">56dp</dimen>
+    <dimen name="fab_stroke_width">1dp</dimen>
+    <dimen name="folder_cover_size">72dp</dimen>
+    <dimen name="image_height">75dp</dimen>
+    <dimen name="image_size">120dp</dimen>
+    <dimen name="item_btn_text_size">18sp</dimen>
+    <dimen name="margintop_svprogresshuddefault_msg">10dp</dimen>
+    <dimen name="nav_btn_text_size">17sp</dimen>
+    <dimen name="nav_btn_width">50dp</dimen>
+    <dimen name="nav_title_text_size">20sp</dimen>
+    <dimen name="numbertimer_wh">150dp</dimen>
+    <dimen name="padding_svprogresshuddefault">15dp</dimen>
+    <dimen name="radius_svprogresshuddefault">25px</dimen>
+    <dimen name="size_image_bigloading">80dp</dimen>
+    <dimen name="size_image_smallloading">60dp</dimen>
+    <dimen name="size_minwidth_svprogresshuddefault">120dp</dimen>
+    <dimen name="space_size">2dp</dimen>
+    <dimen name="tag_corner_radius">20.0dip</dimen>
+    <dimen name="tag_horizontal_spacing">8.0dip</dimen>
+    <dimen name="tag_vertical_spacing">6.0dip</dimen>
+    <dimen name="textSize_svprogresshuddefault_msg">15sp</dimen>
+    <dimen name="text_list_desc">13.0sp</dimen>
+    <dimen name="text_list_title">16.0sp</dimen>
+    <dimen name="timer_confirm_padding">12dp</dimen>
+    <dimen name="timer_h">180dp</dimen>
+    <dimen name="timer_w">70dp</dimen>
+    <dimen name="timer_wh">80dp</dimen>
+    <dimen name="timer_wn">240dp</dimen>
+    <dimen name="title_height">50dp</dimen>
+    <dimen name="title_height_padding_v19">18dp</dimen>
+    <dimen name="title_height_v19">68dp</dimen>
+    <dimen name="title_img_height">50dp</dimen>
+    <dimen name="title_img_pading">8dp</dimen>
+    <dimen name="title_img_width">40dp</dimen>
+    <dimen name="title_view_height">30dp</dimen>
+    <dimen name="umeng_socialize_pad_window_height">350dip</dimen>
+    <dimen name="umeng_socialize_pad_window_width">580dip</dimen>
+    <dimen name="view_padding">6dp</dimen>
+    <dimen name="view_small_padding">1dp</dimen>
+    <dimen name="warnmrg_text_size">17sp</dimen>
+    <dimen name="warnmrg_title_heigth">50dp</dimen>
+    <item name="fab_expand_menu_button" type="id"/>
+    <item name="fab_label" type="id"/>
+    <string name="app_name">金龟子旅行</string>
+    <string name="com_facebook_dialogloginactivity_ok_button">OK</string>
+    <string name="com_facebook_image_download_unknown_error">Unexpected error while downloading an image.</string>
+    <string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
+    <string name="com_facebook_internet_permission_error_title">AndroidManifest Error</string>
+    <string name="com_facebook_like_button_liked">Liked</string>
+    <string name="com_facebook_like_button_not_liked">Like</string>
+    <string name="com_facebook_loading">Loading...</string>
+    <string name="com_facebook_loginview_cancel_action">Cancel</string>
+    <string name="com_facebook_loginview_log_in_button">Log in</string>
+    <string name="com_facebook_loginview_log_in_button_long">Log in with Facebook</string>
+    <string name="com_facebook_loginview_log_out_action">Log out</string>
+    <string name="com_facebook_loginview_log_out_button">Log out</string>
+    <string name="com_facebook_loginview_logged_in_as">Logged in as: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Logged in using Facebook</string>
+    <string name="com_facebook_requesterror_password_changed">Your Facebook password has changed. Please log into this app again to reconnect your Facebook account.</string>
+    <string name="com_facebook_requesterror_permissions">This app doesn’t have permission to do this. To change permissions, try logging into the app again.</string>
+    <string name="com_facebook_requesterror_reconnect">Please log into this app again to reconnect your Facebook account.</string>
+    <string name="com_facebook_send_button_text">Send</string>
+    <string name="com_facebook_share_button_text">Share</string>
+    <string name="com_facebook_tooltip_default">New! You\'re in control - choose what info you want to share with apps.</string>
+    <string name="day_name_format">EEE</string>
+    <string name="dialog_btn_cancel">取消</string>
+    <string name="dialog_btn_confim">确认</string>
+    <string name="dialog_title_alert">提示</string>
+    <string name="flickr_content">Flickr只支持图片分享</string>
+    <string name="flickr_no_client">未安装Flickr客户端</string>
+    <string name="flickr_no_content">请设置分享内容</string>
+    <string name="flickr_showword">Flickr</string>
+    <string name="folder_all">所有图片</string>
+    <string name="foursquare_content">Foursquare只支持纯图片分享</string>
+    <string name="foursquare_no_client">未安装Foursquare客户端</string>
+    <string name="foursquare_showword">Foursquare</string>
+    <string name="go_select">图片选择</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hint_content_null">暂无数据</string>
+    <string name="invalid_date">请选择%1$s 与 %2$s之间的日期</string>
+    <string name="kakao_content">Kakao Talk只支持图片、文本分享</string>
+    <string name="kakao_no_client">未安装Kakao Talk客户端</string>
+    <string name="kakao_no_content">请设置分享内容</string>
+    <string name="kakao_showword">Kakao Talk</string>
+    <string name="line_content">Line只支持文本，图片</string>
+    <string name="line_no_client">未安装Line客户端</string>
+    <string name="line_no_content">请设置分享内容</string>
+    <string name="line_showword">LINE</string>
+    <string name="linkedin_content">linked只支持纯文本分享</string>
+    <string name="linkedin_no_client">未安装LinkedIn客户端</string>
+    <string name="linkedin_showword">LinkedIn</string>
+    <string name="load_fail">加载失败</string>
+    <string name="load_nodata">没有更多数据</string>
+    <string name="load_succeed">加载成功</string>
+    <string name="loading">正在加载…</string>
+    <string name="messenger_send_button_text">Send</string>
+    <string name="month_name_format">MMMM yyyy</string>
+    <string name="msg_amount_limit">超过图片限制</string>
+    <string name="msg_no_camera">找不到系统相机</string>
+    <string name="pocket_content">pocket只支持网页链接分享</string>
+    <string name="pocket_no_client">未安装pocket客户端</string>
+    <string name="pocket_showword">Pocket</string>
+    <string name="preview">预览</string>
+    <string name="pull_to_refresh">下拉刷新</string>
+    <string name="pull_to_refresh_pull_label" translatable="false">向下拉动可以刷新</string>
+    <string name="pull_to_refresh_refreshing_label" translatable="false">加载中…</string>
+    <string name="pull_to_refresh_release_label" translatable="false">松开可以刷新</string>
+    <string name="pull_to_refresh_tap_label" translatable="false">点击刷新</string>
+    <string name="pullup_to_load">上拉加载更多</string>
+    <string name="refresh_fail">刷新失败</string>
+    <string name="refresh_succeed">刷新成功</string>
+    <string name="refreshing">正在刷新…</string>
+    <string name="release_to_load">释放立即加载</string>
+    <string name="release_to_refresh">释放立即刷新</string>
+    <string name="share_text">金龟子旅行APP,注册即得大礼包!快来加入体验吧！</string>
+    <string name="share_title">旅我同行 畅想人生</string>
+    <string name="tumblr_content">Tumblr只支持文本，图片，图文分享</string>
+    <string name="tumblr_no_client">未安装Tumblr客户端</string>
+    <string name="tumblr_no_content">请设置分享内容</string>
+    <string name="tumblr_showword">Tumblr</string>
+    <string name="umeng_example_home_btn_plus">社交分享</string>
+    <string name="umeng_socialize_back" translatable="false">返回</string>
+    <string name="umeng_socialize_cancel_btn_str">取消</string>
+    <string name="umeng_socialize_comment" translatable="false">评论</string>
+    <string name="umeng_socialize_comment_detail" translatable="false">评论详情</string>
+    <string name="umeng_socialize_content_hint">说点啥…</string>
+    <string name="umeng_socialize_friends" translatable="false">关注的好友</string>
+    <string name="umeng_socialize_img_des"/>
+    <string name="umeng_socialize_laiwang_default_content">友盟社会化组件（SDK）让移动应用快速整合社交分享功能</string>
+    <string name="umeng_socialize_login">登录</string>
+    <string name="umeng_socialize_login_qq">QQ空间</string>
+    <string name="umeng_socialize_mail">邮件</string>
+    <string name="umeng_socialize_msg_hor" translatable="false">小时前</string>
+    <string name="umeng_socialize_msg_min" translatable="false">分钟前</string>
+    <string name="umeng_socialize_msg_sec" translatable="false">秒前</string>
+    <string name="umeng_socialize_near_At" translatable="false">最近\@的好友</string>
+    <string name="umeng_socialize_network_break_alert" translatable="false">请连接网络后再尝试！</string>
+    <string name="umeng_socialize_send" translatable="false">发布</string>
+    <string name="umeng_socialize_send_btn_str">发送</string>
+    <string name="umeng_socialize_share">分享</string>
+    <string name="umeng_socialize_share_content">友盟社会化组件（SDK）让移动应用快速整合社交分享功能，我们简化了社交平台的接入，为开发者提供坚实的基础服务。（一）支持各大主流社交平台， 
+												（二）支持图片、文字、gif动图、音频、视频；@好友，关注官方微博等功能。
+												（三）提供详尽的后台用户社交行为分析。www.umeng.com/social</string>
+    <string name="umeng_socialize_sina">新浪</string>
+    <string name="umeng_socialize_sms">短信</string>
+    <string name="umeng_socialize_text_add_custom_platform">请配置用户平台</string>
+    <string name="umeng_socialize_text_alipay_key">支付宝</string>
+    <string name="umeng_socialize_text_authorize">授权</string>
+    <string name="umeng_socialize_text_choose_account">选择已有帐号登录</string>
+    <string name="umeng_socialize_text_comment_hint">说点什么吧…</string>
+    <string name="umeng_socialize_text_douban_key">豆瓣网</string>
+    <string name="umeng_socialize_text_evernote_key">印象笔记</string>
+    <string name="umeng_socialize_text_facebook_key">facebook</string>
+    <string name="umeng_socialize_text_flickr_key">Flickr</string>
+    <string name="umeng_socialize_text_foursquare_key">Foursquare</string>
+    <string name="umeng_socialize_text_friend_list">好友列表</string>
+    <string name="umeng_socialize_text_googleplus_key">GooglePlus</string>
+    <string name="umeng_socialize_text_instagram_key">instagram</string>
+    <string name="umeng_socialize_text_kakao_key">Kakao Talk</string>
+    <string name="umeng_socialize_text_laiwang_dynamic_key">来往动态</string>
+    <string name="umeng_socialize_text_laiwang_key">来往</string>
+    <string name="umeng_socialize_text_laiwangdynamic_key">来往动态</string>
+    <string name="umeng_socialize_text_line_key">LINE</string>
+    <string name="umeng_socialize_text_linkedin_key">Linkedin</string>
+    <string name="umeng_socialize_text_loading_message">载入中,请稍候...</string>
+    <string name="umeng_socialize_text_login_fail">登录失败了，请重试</string>
+    <string name="umeng_socialize_text_pinterest_key">pinterest</string>
+    <string name="umeng_socialize_text_pocket_key">pocket</string>
+    <string name="umeng_socialize_text_qq_key">QQ</string>
+    <string name="umeng_socialize_text_qq_zone_key">QQ空间</string>
+    <string name="umeng_socialize_text_renren_key">人人网</string>
+    <string name="umeng_socialize_text_sina_key">微博</string>
+    <string name="umeng_socialize_text_tencent_key">腾讯微博</string>
+    <string name="umeng_socialize_text_tencent_no_connection">无法连接到腾讯微博客户端</string>
+    <string name="umeng_socialize_text_tencent_no_install">未安装腾讯微博客户端</string>
+    <string name="umeng_socialize_text_tencent_oauth_login_fail">授权登录失败</string>
+    <string name="umeng_socialize_text_tencent_version_no_match">版本不匹配，SSO只对微博客户端V3.8.1及以上的版本提供支持</string>
+    <string name="umeng_socialize_text_tumblr_key">Tumblr</string>
+    <string name="umeng_socialize_text_twitter_key">twitter</string>
+    <string name="umeng_socialize_text_ucenter">个人中心</string>
+    <string name="umeng_socialize_text_unauthorize">未授权</string>
+    <string name="umeng_socialize_text_visitor">游客</string>
+    <string name="umeng_socialize_text_waitting">请稍候...</string>
+    <string name="umeng_socialize_text_waitting_message">,请稍候...</string>
+    <string name="umeng_socialize_text_waitting_qq">跳转QQ中，请稍候...</string>
+    <string name="umeng_socialize_text_waitting_qzone">跳转QZone中，请稍候...</string>
+    <string name="umeng_socialize_text_waitting_redirect">跳转</string>
+    <string name="umeng_socialize_text_waitting_share">分享中…</string>
+    <string name="umeng_socialize_text_waitting_weixin">跳转微信中，请稍候...</string>
+    <string name="umeng_socialize_text_waitting_weixin_circle">跳转朋友圈中，请稍候...</string>
+    <string name="umeng_socialize_text_waitting_yixin">跳转易信中，请稍候...</string>
+    <string name="umeng_socialize_text_waitting_yixin_circle">跳转易信朋友圈中，请稍候...</string>
+    <string name="umeng_socialize_text_weixin_circle_key">微信朋友圈</string>
+    <string name="umeng_socialize_text_weixin_key">微信</string>
+    <string name="umeng_socialize_text_whatsapp_key">WhatsApp</string>
+    <string name="umeng_socialize_text_ydnote_key">有道云笔记</string>
+    <string name="umeng_socialize_text_yixin_key">易信</string>
+    <string name="umeng_socialize_text_yixincircle_key">易信朋友圈</string>
+    <string name="umeng_socialize_tip_blacklist" translatable="false">对不起，因为违反了用户协议您已被禁言.</string>
+    <string name="umeng_socialize_tip_loginfailed" translatable="false">登录失败…</string>
+    <string name="umeng_socialize_ucenter_login_title_guide" translatable="false">游客登录</string>
+    <string name="umeng_socialize_ucenter_login_title_platform" translatable="false">登录帐号</string>
+    <string name="whatsapp_content">有道云笔记只支持文本，图片</string>
+    <string name="whatsapp_no_client">未安装有WhatsApp客户端</string>
+    <string name="whatsapp_no_content">请设置分享内容</string>
+    <string name="whatsapp_showword">WhatsApp</string>
+    <string name="ynote_content">有道云笔记只支持文本，图片，图文分享</string>
+    <string name="ynote_no_client">未安装有道云笔记客户端</string>
+    <string name="ynote_no_content">请设置分享内容</string>
+    <string name="ynote_showword">有道云笔记</string>
+    <style name="ACPLDialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+    <style name="ActionSheetDialogAnimation" parent="@android:style/Animation.Dialog">
+        <item name="android:windowEnterAnimation">@anim/actionsheet_dialog_in</item>
+        <item name="android:windowExitAnimation">@anim/actionsheet_dialog_out</item>
+    </style>
+    <style name="ActionSheetDialogStyle" parent="@android:style/Theme.Dialog">
+
+        <!-- 背景透明 -->
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <!-- 浮于Activity之上 -->
+        <item name="android:windowIsFloating">true</item>
+        <!-- 边框 -->
+        <item name="android:windowFrame">@null</item>
+        <!-- Dialog以外的区域模糊效果 -->
+        <item name="android:backgroundDimEnabled">true</item>
+        <!-- 无标题 -->
+        <item name="android:windowNoTitle">true</item>
+        <!-- 半透明 -->
+        <item name="android:windowIsTranslucent">true</item>
+        <!-- Dialog进入及退出动画 -->
+        <item name="android:windowAnimationStyle">@style/ActionSheetDialogAnimation</item>
+    </style>
+    <style name="AnimationFade">
+
+        <!-- PopupWindow上弹出的效果 -->
+        <item name="android:windowEnterAnimation">@anim/pop_enter</item>
+        <item name="android:windowExitAnimation">@anim/pop_out</item>
+    </style>
+    <style name="AnimationFadeUp">
+        <item name="android:windowEnterAnimation">@anim/pop_out</item>
+        <item name="android:windowExitAnimation">@anim/pop_enter</item>
+    </style>
+    <style name="AppBaseTheme" parent="android:Theme.Light"/>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="BaseDialog" parent="@android:style/Theme.Dialog"/>
+    <style name="CalendarCell">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="CalendarCell.CalendarDate">
+        <item name="android:textSize">@dimen/calendar_text_medium</item>
+        <item name="android:clickable">true</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="CalendarCell.DayHeader">
+        <item name="android:textSize">@dimen/calendar_text_small</item>
+    </style>
+    <style name="CalendarTitle">
+        <item name="android:textSize">@dimen/calendar_text_medium</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="DialogButton">
+        <item name="android:textSize">16.0dip</item>
+        <item name="android:textColor">@color/font_black_normal</item>
+        <item name="android:minHeight">45.0dip</item>
+    </style>
+    <style name="DialogButton.Center" parent="@style/DialogButton">
+        <item name="android:background">@drawable/ytx_btn_dialog_center</item>
+    </style>
+    <style name="DialogButton.Left" parent="@style/DialogButton">
+        <item name="android:background">@drawable/ytx_btn_dialog_left</item>
+    </style>
+    <style name="DialogButton.Right" parent="@style/DialogButton">
+        <item name="android:background">@drawable/ytx_btn_dialog_right</item>
+    </style>
+    <style name="DialogTitle" parent="@style/ShadowedText">
+        <item name="android:textColor">@color/ccp_green</item>
+    </style>
+    <style name="Dialog_bocop">
+
+        <!-- 背景透明 -->
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <!-- 浮于Activity之上 -->
+        <item name="android:windowIsFloating">true</item>
+        <!-- 边框 -->
+        <item name="android:windowFrame">@null</item>
+        <!-- Dialog以外的区域模糊效果 -->
+        <item name="android:backgroundDimEnabled">true</item>
+        <!-- 无标题 -->
+        <item name="android:windowNoTitle">true</item>
+        <!-- 半透明 -->
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+    <style name="Dialog_bocop_loading">
+        <item name="android:windowBackground">@color/bocop_dialog_bg_loading</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+    </style>
+    <style name="MessengerButton">
+    <item name="android:clickable">true</item>
+  </style>
+    <style name="MessengerButton.Blue">
+    <item name="android:background">@drawable/messenger_button_blue_bg_selector</item>
+  </style>
+    <style name="MessengerButton.Blue.Large">
+    <item name="android:layout_width">match_parent</item>
+    <item name="android:layout_height">44dp</item>
+    <item name="android:layout_marginLeft">16dp</item>
+    <item name="android:layout_marginRight">16dp</item>
+  </style>
+    <style name="MessengerButton.Blue.Small">
+    <item name="android:layout_width">158dp</item>
+    <item name="android:layout_height">36dp</item>
+  </style>
+    <style name="MessengerButton.White">
+    <item name="android:background">@drawable/messenger_button_white_bg_selector</item>
+  </style>
+    <style name="MessengerButton.White.Large">
+    <item name="android:layout_width">match_parent</item>
+    <item name="android:layout_height">44dp</item>
+    <item name="android:layout_marginLeft">16dp</item>
+    <item name="android:layout_marginRight">16dp</item>
+  </style>
+    <style name="MessengerButton.White.Small">
+    <item name="android:layout_width">158dp</item>
+    <item name="android:layout_height">36dp</item>
+  </style>
+    <style name="MessengerButtonText">
+    <item name="android:layout_width">wrap_content</item>
+    <item name="android:layout_height">wrap_content</item>
+    <item name="android:layout_gravity">center</item>
+    <item name="android:drawablePadding">4dp</item>
+    <item name="android:gravity">center</item>
+    <!--suppress NewApi -->
+    <!-- <item name="android:textAllCaps">true</item> -->
+    <item name="android:textSize">14sp</item>
+    <item name="android:textStyle">bold</item>
+  </style>
+    <style name="MessengerButtonText.Blue">
+    <item name="android:textColor">#ffffff</item>
+  </style>
+    <style name="MessengerButtonText.Blue.Large">
+    <item name="android:drawableLeft">@drawable/messenger_bubble_large_white</item>
+  </style>
+    <style name="MessengerButtonText.Blue.Small">
+    <item name="android:drawableLeft">@drawable/messenger_bubble_small_white</item>
+  </style>
+    <style name="MessengerButtonText.White">
+    <item name="android:textColor">#0084ff</item>
+  </style>
+    <style name="MessengerButtonText.White.Large">
+    <item name="android:drawableLeft">@drawable/messenger_bubble_large_blue</item>
+  </style>
+    <style name="MessengerButtonText.White.Small">
+    <item name="android:drawableLeft">@drawable/messenger_bubble_small_blue</item>
+  </style>
+    <style name="MyAppTheme" parent="AppTheme">
+        <item name="android:windowAnimationStyle">@style/activityAnimation</item>
+    </style>
+    <style name="MyDialogStyle">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+    <style name="PopToast">
+        <item name="@android:windowEnterAnimation">@anim/anim_toast_enter</item>
+        <item name="@android:windowExitAnimation">@anim/anim_toast_exit</item>
+    </style>
+    <style name="ProgressBarStyle" parent="@android:style/Widget.Holo.ProgressBar.Horizontal"/>
+    <style name="ShadowedText">
+        <item name="android:shadowDx">0.0</item>
+        <item name="android:shadowDy">-1.0</item>
+        <item name="android:shadowRadius">1.0</item>
+    </style>
+    <style name="ShadowedText.Light" parent="@style/ShadowedText">
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:shadowColor">#ff555555</item>
+    </style>
+    <style name="ShareDialog" parent="@android:Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+    <style name="Style_Scrollable">
+        <item name="android:fadingEdge">none</item>
+        <item name="android:scrollingCache">false</item>
+        <item name="android:cacheColorHint">#00000000</item>
+        <item name="android:overScrollMode">never</item>
+    </style>
+    <style name="Text">
+        <item name="android:textStyle">normal</item>
+    </style>
+    <style name="Text.Title" parent="@style/Text">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center_horizontal</item>
+    </style>
+    <style name="Text.Title_Button" parent="@style/Text">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:ellipsize">marquee</item>
+    </style>
+    <style name="Text.Title_normal_black" parent="@style/Text">
+        <item name="android:textColor">@color/font_black_normal</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center_horizontal</item>
+    </style>
+    <style name="Text.Title_normal_black2" parent="@style/Text">
+        <item name="android:textColor">@color/font_black_normal</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center_horizontal</item>
+    </style>
+    <style name="Text.Title_normal_black3" parent="@style/Text">
+        <item name="android:textColor">@color/font_black_normal</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center_horizontal</item>
+    </style>
+    <style name="Text.Title_normal_black_more" parent="@style/Text">
+        <item name="android:textColor">@color/font_black_normal</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:gravity">left</item>
+    </style>
+    <style name="Text.Title_normal_gary" parent="@style/Text">
+        <item name="android:textColor">@color/font_black_gray</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center_horizontal</item>
+    </style>
+    <style name="Text.Title_normal_gary2" parent="@style/Text">
+        <item name="android:textColor">@color/font_black_gray</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center_horizontal</item>
+    </style>
+    <style name="Text.Title_normal_gary3" parent="@style/Text">
+        <item name="android:textColor">@color/font_black_gray</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center_horizontal</item>
+    </style>
+    <style name="Theme.Light.FullScreenDialogAct" parent="@style/BaseDialog">
+        <item name="android:windowBackground">@drawable/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">#ff555555</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowSoftInputMode">adjustPan</item>
+    </style>
+    <style name="Theme.UMDefault" parent="android:style/Theme.NoTitleBar"/>
+    <style name="Theme.UMDialog" parent="android:style/Theme.Dialog">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+    <style name="activityAnimation" parent="@android:style/Animation">
+        <item name="android:activityOpenEnterAnimation">@anim/push_up_in</item>
+        <item name="android:activityOpenExitAnimation">@anim/push_up_out</item>
+        <item name="android:activityCloseEnterAnimation">@anim/push_down_in</item>
+        <item name="android:activityCloseExitAnimation">@anim/push_down_out</item>
+    </style>
+    <style name="chat_content_date_style">
+        <item name="android:minHeight">50dp</item>
+        <item name="android:gravity">left|center</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:lineSpacingExtra">2dp</item>
+        <item name="android:clickable">true</item>
+        <item name="android:focusable">true</item>
+        <item name="android:background">#bfbfbf</item>
+    </style>
+    <style name="chat_text_date_style">
+        <item name="android:padding">2dp</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+    <style name="chat_text_name_style">
+        <item name="android:textColor">#818181</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="com_facebook_button" parent="@android:style/Widget.Button">
+        <item name="android:background">@drawable/com_facebook_button_background</item>
+        <item name="android:drawablePadding">6dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:paddingBottom">5dp</item>
+        <item name="android:paddingLeft">8dp</item>
+        <item name="android:paddingRight">8dp</item>
+        <item name="android:paddingTop">5dp</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textSize">14.0dp</item>
+    </style>
+    <style name="com_facebook_button_like" parent="com_facebook_button">
+        <item name="android:background">@drawable/com_facebook_button_like_background</item>
+    </style>
+    <style name="com_facebook_button_send" parent="com_facebook_button">
+        <item name="android:background">@drawable/com_facebook_button_send_background</item>
+        <item name="android:drawableLeft">@drawable/com_facebook_button_send_icon</item>
+        <item name="android:text">@string/com_facebook_send_button_text</item>
+    </style>
+    <style name="com_facebook_button_share" parent="com_facebook_button">
+        <item name="android:drawableLeft">@drawable/com_facebook_button_icon</item>
+        <item name="android:text">@string/com_facebook_share_button_text</item>
+    </style>
+    <style name="com_facebook_loginview_default_style" parent="com_facebook_button">
+        <item name="android:drawableLeft">@drawable/com_facebook_button_icon</item>
+    </style>
+    <style name="com_facebook_loginview_silver_style" parent="com_facebook_loginview_default_style">
+        <item name="android:background">@drawable/com_facebook_button_login_silver_background</item>
+        <item name="android:drawableLeft">@null</item>
+        <item name="android:textColor">#4b5164</item>
+    </style>
+    <style name="ios_bottom_dialog" parent="android:style/Theme.Dialog">
+        <!--背景颜色及和透明程度-->
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:backgroundDimAmount">0.4</item>
+        <!--是否去除标题 -->
+        <item name="android:windowNoTitle">true</item>
+        <!--是否去除边框-->
+        <item name="android:windowFrame">@null</item>
+        <!--是否浮现在activity之上-->
+        <item name="android:windowIsFloating">true</item>
+        <!--是否模糊-->
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+    <style name="menu_labels_style">
+        <item name="android:background">@drawable/fab_label_background</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+    <style name="tooltip_bubble_text">
+	    <item name="android:textColor">@android:color/white</item>
+	    <item name="android:gravity">left</item>
+	    <item name="android:textSize">12sp</item>
+	    <item name="android:shadowDy">-1</item>
+	    <item name="android:shadowRadius">0.25</item>
+	    <item name="android:shadowColor">#40000000</item>
+    </style>
+    <style name="umeng_socialize_action_bar_item_im">
+        <item name="android:layout_width">25dp</item>
+        <item name="android:layout_height">25dp</item>
+        <item name="android:scaleType">fitCenter</item>
+        <item name="android:layout_centerVertical">true</item>
+    </style>
+    <style name="umeng_socialize_action_bar_item_tv">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_marginLeft">5dp</item>
+        <item name="android:text">999</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="umeng_socialize_action_bar_itemlayout">
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:paddingLeft">4dp</item>
+        <item name="android:paddingTop">4dp</item>
+        <item name="android:paddingRight">4dp</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+    <style name="umeng_socialize_dialog_anim_fade">
+        <item name="android:windowEnterAnimation">@anim/umeng_socialize_fade_in</item>
+        <item name="android:windowExitAnimation">@anim/umeng_socialize_fade_out</item>
+    </style>
+    <style name="umeng_socialize_dialog_animations">
+        <item name="android:windowEnterAnimation">@anim/umeng_socialize_slide_in_from_bottom</item>
+        <item name="android:windowExitAnimation">@anim/umeng_socialize_slide_out_from_bottom</item>
+    </style>
+    <style name="umeng_socialize_divider">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">1dp</item>
+        <item name="android:background">@color/umeng_socialize_divider</item>
+    </style>
+    <style name="umeng_socialize_edit_padding">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:background">@color/umeng_socialize_list_item_bgcolor</item>
+        <item name="android:layout_marginLeft">6dp</item>
+        <item name="android:layout_marginRight">6dp</item>
+        <item name="android:layout_marginTop">6dp</item>
+        <item name="android:layout_marginBottom">6dp</item>
+    </style>
+    <style name="umeng_socialize_list_item">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">55dp</item>
+        <item name="android:background">@color/umeng_socialize_list_item_bgcolor</item>
+        <item name="android:paddingBottom">5dp</item>
+        <item name="android:paddingTop">5dp</item>
+    </style>
+    <style name="umeng_socialize_popup_dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:backgroundDimAmount">0.6</item>
+    </style>
+    <style name="umeng_socialize_popup_dialog_anim" parent="@style/umeng_socialize_popup_dialog">
+        <item name="android:windowAnimationStyle">@style/umeng_socialize_dialog_animations</item>
+    </style>
+    <style name="umeng_socialize_shareboard_animation">
+        <item name="android:windowEnterAnimation">@anim/umeng_socialize_shareboard_animation_in</item>
+        <item name="android:windowExitAnimation">@anim/umeng_socialize_shareboard_animation_out</item>
+    </style>
+</resources>

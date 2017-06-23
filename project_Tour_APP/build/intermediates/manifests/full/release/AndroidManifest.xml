@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.highnes.tour"
+    android:versionCode="200"
+    android:versionName="2.0.0" > <!-- android:versionCode="2000" -->
+    <!-- android:versionName="2.0.0" -->
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="21" />
+    <!-- 往SDCard写入数据权限 -->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <!-- 获取运营商信息，用于支持提供运营商信息相关的接口 -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <!-- 允许应用打开网络套接口 -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <!-- 相册的权限 -->
+    <uses-permission android:name="android.permission.CAMERA" />
+    <!-- 在SDCard中创建与删除文件权限 -->
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <!-- 以下是百度地图所需权限 -->
+    <!-- 这个权限用于进行网络定位 -->
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <!-- 这个权限用于访问GPS定位 -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <!-- 用于访问wifi网络信息，wifi信息会用于进行网络定位 -->
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <!-- 这个权限用于获取wifi的获取权限，wifi信息会用来进行网络定位 -->
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <!-- 设置的权限 -->
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <!-- 用于读取手机当前的状态 -->
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <!-- 拨打电话 -->
+    <uses-permission android:name="android.permission.READ_LOGS" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+
+    <permission
+        android:name="com.highnes.tour.permission.JPUSH_MESSAGE"
+        android:protectionLevel="signature" />
+
+    <!-- Required  一些系统要求的权限，如访问网络等 -->
+    <uses-permission android:name="com.highnes.tour.permission.JPUSH_MESSAGE" />
+    <uses-permission android:name="android.permission.RECEIVE_USER_PRESENT" />
+    <uses-permission android:name="android.permission.RECEIVE_USER_PRESENT" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <!-- Optional for location -->
+    <uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS" />
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+
+    <application
+        android:name="com.highnes.tour.BaseApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+
+        <!-- 主程序 -->
+        <activity
+            android:name="com.highnes.tour.MainActivity"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Translucent" >
+        </activity>
+        <!-- 引导页 -->
+        <activity
+            android:name="com.highnes.tour.ui.activities.GuidePageActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+        </activity>
+        <!-- 框架主页面 -->
+        <!-- 终端 -->
+        <!-- <activity android:name=".ui.activities.TerminalHomeActivity" -->
+        <!-- android:label="@string/app_name" -->
+        <!-- android:screenOrientation="portrait"> -->
+        <!-- <intent-filter> -->
+        <!-- <action android:name="android.intent.action.MAIN" /> -->
+
+
+        <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+        <!-- </intent-filter> -->
+        <!-- </activity> -->
+        <!-- 手机端 -->
+        <activity
+            android:name="com.highnes.tour.ui.activities.TabFragmentActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <!-- 支付 -->
+        <activity
+            android:name="com.highnes.tour.ui.activities.PayActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data android:scheme="wxe3aa1e1599e7a97d" />
+            </intent-filter>
+        </activity>
+        <!-- 支付..成功 -->
+        <activity
+            android:name="com.highnes.tour.ui.activities.PaySuccessActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <!-- 支付..成功..PHP -->
+        <activity
+            android:name="com.highnes.tour.ui.activities.PHPPaySuccessActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <!-- 城市选择 -->
+        <activity
+            android:name="com.highnes.tour.ui.activities.CityActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <!-- 查看大图 -->
+        <activity
+            android:name="com.highnes.tour.ui.activities.ForumImageActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <!-- H5..有标题 -->
+        <activity
+            android:name="com.highnes.tour.ui.activities.WebViewTitleActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <!-- H5 -->
+        <activity
+            android:name="com.highnes.tour.ui.activities.PHPWebViewActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <!-- 首页..门票 -->
+        <activity
+            android:name="com.highnes.tour.ui.activities.home.ticket.TicketActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <!-- 首页..路况查询 -->
+        <activity
+            android:name="com.highnes.tour.ui.activities.home.ticket.MapRoadActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <!-- 首页..道路救援 -->
+        <activity
+            android:name="com.highnes.tour.ui.activities.home.SosActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <!-- 首页..门票..搜索 -->
+        <activity
+            android:name="com.highnes.tour.ui.activities.home.ticket.TicketSearchActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <!-- 首页..门票..筛选列表 -->
+        <activity
+            android:name="com.highnes.tour.ui.activities.home.ticket.FilterTicketActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <!-- 首页..门票..详情 -->
+        <activity
+            android:name="com.highnes.tour.ui.activities.home.ticket.TicketDetailActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <!-- 首页..门票..详情..地址 -->
+        <activity
+            android:name="com.highnes.tour.ui.activities.home.ticket.MapDisplayActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <!-- 首页..门票..详情..评论 -->
+        <activity
+            android:name="com.highnes.tour.ui.activities.home.ticket.TicketCommentListActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <!-- 首页..门票..详情..订单填写 -->
+        <activity
+            android:name="com.highnes.tour.ui.activities.home.ticket.TicketDetailOrderActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan|stateHidden" />
+        <!-- 首页..门票..详情..订单填写..选择保险 -->
+        <activity
+            android:name="com.highnes.tour.ui.activities.home.ticket.TicketInsureActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan|stateHidden" />
+        <!-- 首页..旅游度假 -->
+        <activity
+            android:name="com.highnes.tour.ui.activities.home.tour.TourActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <!-- 首页..旅游度假..周边游..筛选列表 -->
+        <activity
+            android:name="com.highnes.tour.ui.activities.home.tour.FilterTour1Activity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <!-- 首页..旅游度假..周边游..详情 -->
+        <activity
+            android:name="com.highnes.tour.ui.activities.home.tour.Tour1DetailActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <!-- 首页..旅游度假..周边游..详情..评论列表 -->
+        <activity
+            android:name="com.highnes.tour.ui.activities.home.tour.Tour1CommentListActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <!-- 首页..旅游度假..野营..详情..评论列表 -->
+        <activity
+            android:name="com.highnes.tour.ui.activities.home.tour.Tour7CommentListActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <!-- 首页..旅游度假..周边游..详情..预定 -->
+        <activity
+            android:name="com.highnes.tour.ui.activities.home.tour.Tour1DetailOrderActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <!-- 首页..旅游度假..周边游..详情..预定..保险 -->
+        <activity
+            android:name="com.highnes.tour.ui.activities.home.tour.TourInsureActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <!-- 首页..旅游度假..国内游..筛选列表 -->
+        <activity
+            android:name="com.highnes.tour.ui.activities.home.tour.FilterTour2Activity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <!-- 首页..旅游度假..野营..更多 -->
+        <activity
+            android:name="com.highnes.tour.ui.activities.home.tour.Tour7ListActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <!-- 首页..旅游度假..野营..详情 -->
+        <activity
+            android:name="com.highnes.tour.ui.activities.home.tour.Tour7DetailActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <!-- 首页..旅游度假..野营..详情..预定 -->
+        <activity
+            android:name="com.highnes.tour.ui.activities.home.tour.Tour7DetailOrderActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+
+        <!-- 首页..头条..列表 -->
+        <activity
+            android:name="com.highnes.tour.ui.activities.home.NewsActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <!-- 首页..消息..列表 -->
+        <activity
+            android:name="com.highnes.tour.ui.activities.home.MsgActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+
+        <!-- 首页..限时抢购..列表 -->
+        <activity
+            android:name="com.highnes.tour.ui.activities.home.TimeListActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <!-- 首页..限时抢购..列表..详情 -->
+        <activity
+            android:name="com.highnes.tour.ui.activities.home.TimeDetailActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <!-- 首页..限时抢购..列表..详情..评论 -->
+        <activity
+            android:name="com.highnes.tour.ui.activities.home.TimeCommentListActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+
+        <!-- 发现..列表 -->
+        <activity
+            android:name="com.highnes.tour.ui.activities.find.FindListActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <!-- 发现..攻略 -->
+        <activity
+            android:name="com.highnes.tour.ui.activities.find.FindTacticsActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <!-- 发现..详情 -->
+        <activity
+            android:name="com.highnes.tour.ui.activities.find.FindDetailActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <!-- 发现..详情..所有评论 -->
+        <activity
+            android:name="com.highnes.tour.ui.activities.find.FindDetailCommentActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+
+        <!-- 足迹..发布 -->
+        <activity
+            android:name="com.highnes.tour.ui.activities.foot.FootIssueActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <!-- 足迹..足迹圈..详情 -->
+        <activity
+            android:name="com.highnes.tour.ui.activities.foot.FootGroupDetailActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+
+        <!-- 我的..个人资料 -->
+        <activity
+            android:name="com.highnes.tour.ui.activities.my.InfoActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <!-- 我的..修改个人资料 -->
+        <activity
+            android:name="com.highnes.tour.ui.activities.my.ChangeValueActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <!-- 我的..登录 -->
+        <activity
+            android:name="com.highnes.tour.ui.activities.my.LoginActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <!-- 我的..登录..注册 -->
+        <activity
+            android:name="com.highnes.tour.ui.activities.my.RegisterActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <!-- 我的..登录..忘记密码 -->
+        <activity
+            android:name="com.highnes.tour.ui.activities.my.GetPwdActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <!-- 我的..常用信息..旅客信息 -->
+        <activity
+            android:name="com.highnes.tour.ui.activities.my.common.CommonUserInfoActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <!-- 我的..常用信息..旅客信息..新增 -->
+        <activity
+            android:name="com.highnes.tour.ui.activities.my.common.CommonUserInfoManageActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <!-- 我的..红包优惠券 -->
+        <activity
+            android:name="com.highnes.tour.ui.activities.my.CouponActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <!-- 我的..积分 -->
+        <activity
+            android:name="com.highnes.tour.ui.activities.my.PointActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <!-- 我的..全部订单 -->
+        <activity
+            android:name="com.highnes.tour.ui.activities.my.order.AllOrderActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <!-- 我的..全部订单..列表 -->
+        <activity
+            android:name="com.highnes.tour.ui.activities.my.order.AllOrderListActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <!-- 我的..全部订单..列表..PHP -->
+        <activity
+            android:name="com.highnes.tour.ui.activities.my.order.PHPOrderListActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <!-- 我的..订单..列表 -->
+        <activity
+            android:name="com.highnes.tour.ui.activities.my.OrderListActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <!-- 我的..订单..添加评论 -->
+        <activity
+            android:name="com.highnes.tour.ui.activities.my.order.AddCommentActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <!-- 我的..订单..添加评论PHP -->
+        <activity
+            android:name="com.highnes.tour.ui.activities.my.order.PHPAddCommentActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <!-- 我的..订单..订单详情 -->
+        <activity
+            android:name="com.highnes.tour.ui.activities.my.order.OrderDetailActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <!-- 我的..收藏 -->
+        <activity
+            android:name="com.highnes.tour.ui.activities.my.CollectActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <!-- 我的..收藏..列表 -->
+        <activity
+            android:name="com.highnes.tour.ui.activities.my.CollectListActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <!-- 我的..收藏..列表PHP -->
+        <activity
+            android:name="com.highnes.tour.ui.activities.my.PHPCollectListActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <!-- 我的..意见反馈 -->
+        <activity
+            android:name="com.highnes.tour.ui.activities.my.OpinionActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <!-- 我的..设置 -->
+        <activity
+            android:name="com.highnes.tour.ui.activities.my.SettingsActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <!-- 我的..设置 ..修改密码 -->
+        <activity
+            android:name="com.highnes.tour.ui.activities.my.SettingsPwdActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <!-- 我的..设置 ..关于我们 -->
+        <activity
+            android:name="com.highnes.tour.ui.activities.my.AboutActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <!-- 我的..设置 ..客服 -->
+        <activity
+            android:name="com.highnes.tour.ui.activities.my.ServerActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <!-- 我的..设置 ..客服..详情 -->
+        <activity
+            android:name="com.highnes.tour.ui.activities.my.ServerDetailActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <!-- 相册选择的时候 -->
+        <activity
+            android:name="com.highnes.tour.common.image.select.MultiImageSelectorActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.highnes.tour.common.image.select.PreViewActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+
+        <!-- 广播 网络 -->
+        <receiver android:name="com.highnes.tour.receivers.NetReceivers" />
+        <!-- 广播 回调 -->
+        <receiver
+            android:name="com.highnes.tour.receivers.OnCallBackReceiver"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="com.highnes.tour.action_callback_refresh" />
+            </intent-filter>
+        </receiver>
+
+        <!-- =========================百度开发========================= -->
+        <service
+            android:name="com.baidu.location.f"
+            android:enabled="true"
+            android:process=":remote" >
+        </service>
+
+        <!-- meta-data需要写在application中 -->
+        <!-- <meta-data -->
+        <!-- android:name="com.baidu.lbsapi.API_KEY" -->
+        <!-- android:value="bAs2OURKQAmprgzZRsODp156KxaKkn3j" /> -->
+        <meta-data
+            android:name="com.baidu.lbsapi.API_KEY"
+            android:value="45ApmpeTbmCHTAG3OAvjyr4iCp6OibEL" />
+
+        <!-- =========================极光推送========================= -->
+        <!-- Rich push 核心功能 since 2.0.6 -->
+        <activity
+            android:name="cn.jpush.android.ui.PopWinActivity"
+            android:exported="false"
+            android:theme="@style/MyDialogStyle" >
+        </activity>
+
+        <!-- Required SDK核心功能 -->
+        <activity
+            android:name="cn.jpush.android.ui.PushActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:exported="false"
+            android:theme="@android:style/Theme.NoTitleBar" >
+            <intent-filter>
+                <action android:name="cn.jpush.android.ui.PushActivity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="com.highnes.tour" />
+            </intent-filter>
+        </activity>
+        <!-- Required  SDK核心功能 -->
+        <service
+            android:name="cn.jpush.android.service.DownloadService"
+            android:enabled="true"
+            android:exported="false" >
+        </service>
+
+        <!-- Required SDK 核心功能 -->
+        <!-- 可配置android:process参数将PushService放在其他进程中 -->
+        <service
+            android:name="cn.jpush.android.service.PushService"
+            android:enabled="true"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="cn.jpush.android.intent.REGISTER" />
+                <action android:name="cn.jpush.android.intent.REPORT" />
+                <action android:name="cn.jpush.android.intent.PushService" />
+                <action android:name="cn.jpush.android.intent.PUSH_TIME" />
+            </intent-filter>
+        </service>
+
+        <!-- since 1.8.0 option 可选项。用于同一设备中不同应用的JPush服务相互拉起的功能。 -->
+        <!-- 若不启用该功能可删除该组件，将不拉起其他应用也不能被其他应用拉起 -->
+        <service
+            android:name="cn.jpush.android.service.DaemonService"
+            android:enabled="true"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="cn.jpush.android.intent.DaemonService" />
+
+                <category android:name="com.highnes.tour" />
+            </intent-filter>
+        </service>
+
+        <!-- Required SDK核心功能 -->
+        <receiver
+            android:name="cn.jpush.android.service.PushReceiver"
+            android:enabled="true"
+            android:exported="false" >
+            <intent-filter android:priority="1000" >
+                <action android:name="cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY" /> <!-- Required  显示通知栏 -->
+                <category android:name="com.highnes.tour" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.USER_PRESENT" />
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+            </intent-filter>
+            <!-- Optional -->
+            <intent-filter>
+                <action android:name="android.intent.action.PACKAGE_ADDED" />
+                <action android:name="android.intent.action.PACKAGE_REMOVED" />
+
+                <data android:scheme="package" />
+            </intent-filter>
+        </receiver>
+
+        <!-- Required SDK核心功能 -->
+        <receiver
+            android:name="cn.jpush.android.service.AlarmReceiver"
+            android:exported="false" />
+        <!-- User defined.  For test only  用户自定义的广播接收器 -->
+        <receiver
+            android:name="com.highnes.tour.receivers.JPushReceiver"
+            android:enabled="true"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="cn.jpush.android.intent.REGISTRATION" /> <!-- Required  用户注册SDK的intent -->
+                <action android:name="cn.jpush.android.intent.UNREGISTRATION" />
+                <action android:name="cn.jpush.android.intent.MESSAGE_RECEIVED" /> <!-- Required  用户接收SDK消息的intent -->
+                <action android:name="cn.jpush.android.intent.NOTIFICATION_RECEIVED" /> <!-- Required  用户接收SDK通知栏信息的intent -->
+                <action android:name="cn.jpush.android.intent.NOTIFICATION_OPENED" /> <!-- Required  用户打开自定义通知栏的intent -->
+                <action android:name="cn.jpush.android.intent.ACTION_RICHPUSH_CALLBACK" /> <!-- Optional 用户接受Rich Push Javascript 回调函数的intent -->
+                <action android:name="cn.jpush.android.intent.CONNECTION" /> <!-- 接收网络变化 连接/断开 since 1.6.3 -->
+                <category android:name="com.highnes.tour" />
+            </intent-filter>
+        </receiver>
+
+        <!-- Required  . Enable it you can get statistics data with channel -->
+        <meta-data
+            android:name="JPUSH_CHANNEL"
+            android:value="developer-default" />
+        <meta-data
+            android:name="JPUSH_APPKEY"
+            android:value="1d96ac49d606117ef4d6daf0" /> <!-- </>值来自开发者平台取得的AppKey -->
+
+
+        <!-- **********************************极光推送************************************ -->
+
+
+        <!-- **********************************友盟分享************************************ -->
+        <!-- tencent -->
+        <activity
+            android:name="com.tencent.tauth.AuthActivity"
+            android:launchMode="singleTask"
+            android:noHistory="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data android:scheme="tencent1105241490" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.tencent.connect.common.AssistActivity"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <!-- wechat callback -->
+        <activity
+            android:name="com.highnes.tour.wxapi.WXEntryActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:exported="true"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <!-- umengAppKey，replace to yours -->
+        <meta-data
+            android:name="UMENG_APPKEY"
+            android:value="57e1ef80e0f55aece30043ba" >
+        </meta-data>
+        <meta-data
+            android:name="UMENG_CHANNEL"
+            android:value="Umeng" >
+        </meta-data>
+        <!-- **********************************友盟分享************************************ -->
+
+
+        <!-- **********************************支付宝************************************ -->
+        <activity
+            android:name="com.alipay.sdk.app.H5PayActivity"
+            android:configChanges="orientation|keyboardHidden|navigation"
+            android:exported="false"
+            android:screenOrientation="behind" >
+        </activity>
+        <activity
+            android:name="com.alipay.sdk.auth.AuthActivity"
+            android:configChanges="orientation|keyboardHidden|navigation"
+            android:exported="false"
+            android:screenOrientation="behind" >
+        </activity>
+        <!-- **********************************支付宝************************************ -->
+
+
+        <!-- **********************************微信************************************ -->
+        <!-- 微信回调activity -->
+        <activity
+            android:name="com.highnes.tour.wxapi.WXPayEntryActivity"
+            android:exported="true"
+            android:launchMode="singleTop" />
+        <!-- **********************************微信************************************ -->
+    </application>
+
+</manifest>

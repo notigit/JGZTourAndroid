@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\anim\\push_up_out.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\anim\\push_up_out.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\anim\\actionsheet_dialog_out.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\anim\\actionsheet_dialog_out.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\anim\\reverse_anim.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\anim\\reverse_anim.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\anim\\pop_enter.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\anim\\pop_enter.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\anim\\push_up_in.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\anim\\push_up_in.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\anim\\anim_toast_exit.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\anim\\anim_toast_exit.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\anim\\umeng_socialize_slide_in_from_bottom.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\anim\\umeng_socialize_slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\anim\\umeng_socialize_shareboard_animation_in.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\anim\\umeng_socialize_shareboard_animation_in.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\anim\\push_down_in.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\anim\\push_down_in.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\anim\\pop_out.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\anim\\pop_out.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\anim\\umeng_socialize_slide_out_from_bottom.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\anim\\umeng_socialize_slide_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\anim\\push_down_out.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\anim\\push_down_out.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\anim\\actionsheet_dialog_in.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\anim\\actionsheet_dialog_in.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\anim\\rotating.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\anim\\rotating.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\anim\\alpha_in.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\anim\\alpha_in.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\anim\\umeng_socialize_shareboard_animation_out.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\anim\\umeng_socialize_shareboard_animation_out.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\anim\\umeng_socialize_fade_in.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\anim\\umeng_socialize_fade_in.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\anim\\loading_anim.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\anim\\loading_anim.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\anim\\anim_toast_enter.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\anim\\anim_toast_enter.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\anim\\umeng_socialize_fade_out.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\exploded-aar\\document\\project_Tour_social_sdk_library\\unspecified\\res\\anim\\umeng_socialize_fade_out.xml"
+    }
+]

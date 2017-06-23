@@ -1,0 +1,2 @@
+include ':project_Tour_social_sdk_library'
+include ':project_Tour_APP'

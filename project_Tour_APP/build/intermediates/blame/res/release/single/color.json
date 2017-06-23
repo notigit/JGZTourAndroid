@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\color\\custom_calendar_text_selector.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\color\\custom_calendar_text_selector.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\color\\calendar_text_selector.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\color\\calendar_text_selector.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\color\\default_text_color.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\color\\default_text_color.xml"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\color\\select_menu_txt.xml",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\color\\select_menu_txt.xml"
+    }
+]

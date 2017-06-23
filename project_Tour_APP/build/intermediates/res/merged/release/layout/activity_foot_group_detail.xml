@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ripple="http://schemas.android.com/apk/res-auto"
+    xmlns:funy="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/white" >
+
+    <LinearLayout
+        android:id="@+id/ll_bottom"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:background="@color/white"
+        android:orientation="vertical"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp" >
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1px"
+            android:background="@color/line_item" />
+
+        <TextView
+            android:id="@+id/tv_add_comment"
+            android:layout_width="fill_parent"
+            android:layout_height="30dp"
+            android:layout_gravity="center_vertical"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/shape_radius_gray2_line"
+            android:gravity="center_vertical"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:text="写评论..."
+            android:textColor="@color/font_black_normal"
+            android:textSize="12sp" />
+    </LinearLayout>
+
+    <com.highnes.tour.view.pull.PullToRefreshLayout
+        android:id="@+id/pull"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/ll_bottom" >
+
+        <include layout="@layout/allview_refresh_head" />
+
+        <com.highnes.tour.view.pull.PullableScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scrollbars="none" >
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:orientation="vertical" >
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="20dp"
+                    android:layout_marginTop="10dp"
+                    android:orientation="horizontal" >
+
+                    <com.highnes.tour.view.imageview.CircleImageView
+                        android:id="@+id/iv_avatar"
+                        android:layout_width="40dp"
+                        android:layout_height="40dp"
+                        android:layout_marginRight="10dp"
+                        android:focusable="false"
+                        android:scaleType="centerCrop"
+                        android:src="@drawable/ic_default_img"
+                        funy:border_color="@color/white"
+                        funy:border_width="0dp" />
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical" >
+
+                        <LinearLayout
+                            android:layout_width="fill_parent"
+                            android:layout_height="40dp"
+                            android:layout_gravity="center_vertical"
+                            android:layout_marginLeft="5dp"
+                            android:layout_marginRight="5dp"
+                            android:orientation="vertical" >
+
+                            <LinearLayout
+                                android:layout_width="fill_parent"
+                                android:layout_height="0dp"
+                                android:layout_weight="1"
+                                android:orientation="horizontal" >
+
+                                <TextView
+                                    android:id="@+id/tv_item_name"
+                                    android:layout_width="0dp"
+                                    android:layout_height="fill_parent"
+                                    android:layout_weight="1"
+                                    android:gravity="center_vertical"
+                                    android:singleLine="true"
+                                    android:textColor="@color/font_black_normal"
+                                    android:textSize="16sp" />
+
+                                <TextView
+                                    android:id="@+id/tv_item_del"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="fill_parent"
+                                    android:gravity="center"
+                                    android:paddingLeft="20dp"
+                                    android:singleLine="true"
+                                    android:text="举报"
+                                    android:textColor="@color/font_black_gray"
+                                    android:textSize="12sp" />
+                            </LinearLayout>
+
+                            <TextView
+                                android:id="@+id/tv_item_time"
+                                android:layout_width="wrap_content"
+                                android:layout_height="0dp"
+                                android:layout_weight="1"
+                                android:gravity="center"
+                                android:singleLine="true"
+                                android:textColor="@color/font_black_gray"
+                                android:textSize="10sp" />
+                        </LinearLayout>
+
+                        <TextView
+                            android:id="@+id/tv_item_remarks"
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_vertical"
+                            android:gravity="center_vertical"
+                            android:textColor="@color/font_black_normal"
+                            android:textSize="14sp" />
+
+                        <com.highnes.tour.view.gridview.MyGridView
+                            android:id="@+id/gv_photo"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center"
+                            android:layout_marginTop="5dp"
+                            android:background="@android:color/transparent"
+                            android:focusable="false"
+                            android:gravity="center"
+                            android:horizontalSpacing="2dp"
+                            android:numColumns="3"
+                            android:scrollbars="none"
+                            android:verticalSpacing="2dp" />
+
+                        <LinearLayout
+                            android:layout_width="fill_parent"
+                            android:layout_height="30dp"
+                            android:layout_marginTop="5dp"
+                            android:gravity="center_vertical"
+                            android:orientation="horizontal" >
+
+                            <TextView
+                                android:id="@+id/tv_item_loc"
+                                android:layout_width="0dp"
+                                android:layout_height="fill_parent"
+                                android:layout_gravity="center_vertical"
+                                android:layout_weight="1"
+                                android:drawableLeft="@drawable/btn_loc_gray"
+                                android:drawablePadding="5dp"
+                                android:gravity="center_vertical"
+                                android:singleLine="true"
+                                android:textColor="@color/font_black_normal"
+                                android:textSize="10sp" />
+
+                            <ImageView
+                                android:id="@+id/iv_item_comment"
+                                android:layout_width="wrap_content"
+                                android:layout_height="15dp"
+                                android:src="@drawable/ic_plus_gray" />
+
+                            <TextView
+                                android:id="@+id/tv_item_comment"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center_vertical"
+                                android:layout_marginLeft="5dp"
+                                android:gravity="center_vertical"
+                                android:text="0"
+                                android:textColor="@color/font_black_normal"
+                                android:textSize="14sp" />
+
+                            <ImageView
+                                android:id="@+id/iv_item_agree"
+                                android:layout_width="wrap_content"
+                                android:layout_height="15dp"
+                                android:layout_marginLeft="20dp"
+                                android:src="@drawable/ic_heart_gray" />
+
+                            <TextView
+                                android:id="@+id/tv_item_agree"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center_vertical"
+                                android:layout_marginLeft="5dp"
+                                android:gravity="center_vertical"
+                                android:text="0"
+                                android:textColor="@color/font_black_normal"
+                                android:textSize="14sp" />
+                        </LinearLayout>
+                    </LinearLayout>
+                </LinearLayout>
+
+                <View
+                    android:layout_width="fill_parent"
+                    android:layout_height="1px"
+                    android:background="@color/line_item" />
+
+                <com.highnes.tour.view.listview.MyListView
+                    android:id="@+id/lv_list"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginBottom="10dp"
+                    android:divider="@null"
+                    android:dividerHeight="1px"
+                    android:gravity="center"
+                    android:scrollbars="none" />
+            </LinearLayout>
+        </com.highnes.tour.view.pull.PullableScrollView>
+
+        <include layout="@layout/allview_load_more" />
+    </com.highnes.tour.view.pull.PullToRefreshLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_class_hint"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:paddingTop="100dp"
+        android:visibility="gone" >
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_not_comment" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:gravity="center"
+            android:text="暂无数据"
+            android:textColor="@color/font_black_gray"
+            android:textSize="16sp" />
+    </LinearLayout>
+
+</RelativeLayout>

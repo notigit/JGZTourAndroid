@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ripple="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/white" >
+
+    <com.highnes.tour.view.pull.PullToRefreshLayout
+        android:id="@+id/pull"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <include layout="@layout/allview_refresh_head" />
+
+        <com.highnes.tour.view.pull.PullableScrollView
+            android:id="@+id/sv_shops"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:scrollbars="none" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <!-- 主题图片 -->
+
+                <LinearLayout
+                    android:id="@+id/poster_container"
+                    android:layout_width="match_parent"
+                    android:layout_height="180dp"
+                    android:orientation="vertical" >
+                </LinearLayout>
+                <!-- 中间的菜单 -->
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="65dp"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginTop="10dp"
+                    android:orientation="horizontal" >
+
+                    <com.highnes.tour.view.layout.RippleView
+                        android:id="@+id/rv_menu_0"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        ripple:rv_type="rectangle" >
+
+                        <TextView
+                            android:id="@+id/tv_menu_0"
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentBottom="true"
+                            android:layout_centerHorizontal="true"
+                            android:layout_marginTop="5dp"
+                            android:gravity="center"
+                            android:text="景点门票"
+                            android:textColor="@color/theme_orange"
+                            android:textSize="12sp" />
+
+                        <ImageView
+                            android:layout_width="50dp"
+                            android:layout_height="50dp"
+                            android:layout_above="@id/tv_menu_0"
+                            android:layout_centerHorizontal="true"
+                            android:src="@drawable/ic_home_menu0" />
+
+                        <ImageView
+                            android:layout_width="25dp"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentRight="true"
+                            android:layout_alignParentTop="true"
+                            android:layout_marginRight="10dp"
+                            android:layout_marginTop="5dp"
+                            android:src="@drawable/btn_hot" />
+                    </com.highnes.tour.view.layout.RippleView>
+
+                    <com.highnes.tour.view.layout.RippleView
+                        android:id="@+id/rv_menu_1"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        ripple:rv_type="rectangle" >
+
+                        <TextView
+                            android:id="@+id/tv_menu_1"
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentBottom="true"
+                            android:layout_centerHorizontal="true"
+                            android:layout_marginTop="5dp"
+                            android:gravity="center"
+                            android:text="旅游度假"
+                            android:textColor="@color/font_black_normal"
+                            android:textSize="12sp" />
+
+                        <ImageView
+                            android:layout_width="50dp"
+                            android:layout_height="50dp"
+                            android:layout_above="@id/tv_menu_1"
+                            android:layout_centerHorizontal="true"
+                            android:src="@drawable/ic_home_menu1" />
+                    </com.highnes.tour.view.layout.RippleView>
+
+                    <com.highnes.tour.view.layout.RippleView
+                        android:id="@+id/rv_menu_2"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        ripple:rv_type="rectangle" >
+
+                        <TextView
+                            android:id="@+id/tv_menu_2"
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentBottom="true"
+                            android:layout_centerHorizontal="true"
+                            android:layout_marginTop="5dp"
+                            android:gravity="center"
+                            android:text="酒店"
+                            android:textColor="@color/font_black_normal"
+                            android:textSize="12sp" />
+
+                        <ImageView
+                            android:layout_width="50dp"
+                            android:layout_height="50dp"
+                            android:layout_above="@id/tv_menu_2"
+                            android:layout_centerHorizontal="true"
+                            android:src="@drawable/ic_home_menu2" />
+                    </com.highnes.tour.view.layout.RippleView>
+
+                    <com.highnes.tour.view.layout.RippleView
+                        android:id="@+id/rv_menu_3"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:visibility="gone"
+                        ripple:rv_type="rectangle" >
+
+                        <TextView
+                            android:id="@+id/tv_menu_3"
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentBottom="true"
+                            android:layout_centerHorizontal="true"
+                            android:layout_marginTop="5dp"
+                            android:gravity="center"
+                            android:text="美食"
+                            android:textColor="@color/font_black_normal"
+                            android:textSize="12sp" />
+
+                        <ImageView
+                            android:layout_width="50dp"
+                            android:layout_height="50dp"
+                            android:layout_above="@id/tv_menu_3"
+                            android:layout_centerHorizontal="true"
+                            android:src="@drawable/ic_home_menu3" />
+                    </com.highnes.tour.view.layout.RippleView>
+
+                        <com.highnes.tour.view.layout.RippleView
+                            android:id="@+id/rv_menu_4"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            ripple:rv_type="rectangle" >
+
+                            <TextView
+                                android:id="@+id/tv_menu_4"
+                                android:layout_width="fill_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_alignParentBottom="true"
+                                android:layout_centerHorizontal="true"
+                                android:layout_marginTop="5dp"
+                                android:gravity="center"
+                                android:text="美食"
+                                android:textColor="@color/font_black_normal"
+                                android:textSize="12sp" />
+
+                            <ImageView
+                                android:layout_width="50dp"
+                                android:layout_height="50dp"
+                                android:layout_above="@id/tv_menu_4"
+                                android:layout_centerHorizontal="true"
+                                android:src="@drawable/ic_home_menu4" />
+                        </com.highnes.tour.view.layout.RippleView>
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="65dp"
+                    android:layout_marginBottom="10dp"
+                    android:visibility="gone"
+                    android:orientation="horizontal" >
+
+                    <!--<com.highnes.tour.view.layout.RippleView-->
+                        <!--android:id="@+id/rv_menu_4"-->
+                        <!--android:layout_width="0dp"-->
+                        <!--android:layout_height="wrap_content"-->
+                        <!--android:layout_weight="1"-->
+                        <!--ripple:rv_type="rectangle" >-->
+
+                        <!--<TextView-->
+                            <!--android:id="@+id/tv_menu_4"-->
+                            <!--android:layout_width="fill_parent"-->
+                            <!--android:layout_height="wrap_content"-->
+                            <!--android:layout_alignParentBottom="true"-->
+                            <!--android:layout_centerHorizontal="true"-->
+                            <!--android:layout_marginTop="5dp"-->
+                            <!--android:gravity="center"-->
+                            <!--android:text="飞机票"-->
+                            <!--android:textColor="@color/font_black_normal"-->
+                            <!--android:textSize="12sp" />-->
+
+                        <!--<ImageView-->
+                            <!--android:layout_width="50dp"-->
+                            <!--android:layout_height="50dp"-->
+                            <!--android:layout_above="@id/tv_menu_4"-->
+                            <!--android:layout_centerHorizontal="true"-->
+                            <!--android:src="@drawable/ic_home_menu4" />-->
+                    <!--</com.highnes.tour.view.layout.RippleView>-->
+
+                    <com.highnes.tour.view.layout.RippleView
+                        android:id="@+id/rv_menu_5"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        ripple:rv_type="rectangle" >
+
+                        <TextView
+                            android:id="@+id/tv_menu_5"
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentBottom="true"
+                            android:layout_centerHorizontal="true"
+                            android:layout_marginTop="5dp"
+                            android:gravity="center"
+                            android:text="火车票"
+                            android:textColor="@color/font_black_normal"
+                            android:textSize="12sp" />
+
+                        <ImageView
+                            android:layout_width="50dp"
+                            android:layout_height="50dp"
+                            android:layout_above="@id/tv_menu_5"
+                            android:layout_centerHorizontal="true"
+                            android:src="@drawable/ic_home_menu5" />
+                    </com.highnes.tour.view.layout.RippleView>
+
+                    <com.highnes.tour.view.layout.RippleView
+                        android:id="@+id/rv_menu_6"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        ripple:rv_type="rectangle" >
+
+                        <TextView
+                            android:id="@+id/tv_menu_6"
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentBottom="true"
+                            android:layout_centerHorizontal="true"
+                            android:layout_marginTop="5dp"
+                            android:gravity="center"
+                            android:text="土特产"
+                            android:textColor="@color/font_black_normal"
+                            android:textSize="12sp" />
+
+                        <ImageView
+                            android:layout_width="50dp"
+                            android:layout_height="50dp"
+                            android:layout_above="@id/tv_menu_6"
+                            android:layout_centerHorizontal="true"
+                            android:src="@drawable/ic_home_menu6" />
+                    </com.highnes.tour.view.layout.RippleView>
+
+                    <com.highnes.tour.view.layout.RippleView
+                        android:id="@+id/rv_menu_7"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        ripple:rv_type="rectangle" >
+
+                        <TextView
+                            android:id="@+id/tv_menu_7"
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentBottom="true"
+                            android:layout_centerHorizontal="true"
+                            android:layout_marginTop="5dp"
+                            android:gravity="center"
+                            android:text="娱乐"
+                            android:textColor="@color/font_black_normal"
+                            android:textSize="12sp" />
+
+                        <ImageView
+                            android:layout_width="50dp"
+                            android:layout_height="50dp"
+                            android:layout_above="@id/tv_menu_7"
+                            android:layout_centerHorizontal="true"
+                            android:src="@drawable/ic_home_menu7" />
+                    </com.highnes.tour.view.layout.RippleView>
+                </LinearLayout>
+
+                <View
+                    android:layout_width="fill_parent"
+                    android:layout_height="1px"
+                    android:background="@color/line_ebf1f0" />
+
+                <RelativeLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content" >
+
+                    <ImageView
+                        android:id="@+id/iv_left"
+                        android:layout_width="5dp"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentLeft="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginRight="5dp"
+                        android:src="@drawable/ic_home_left" />
+
+                    <ImageView
+                        android:id="@+id/iv_right"
+                        android:layout_width="5dp"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginRight="5dp"
+                        android:src="@drawable/ic_home_right" />
+
+                    <HorizontalScrollView
+                        android:id="@+id/hsv_tab"
+                        android:layout_width="match_parent"
+                        android:layout_height="70dp"
+                        android:layout_centerVertical="true"
+                        android:layout_toLeftOf="@id/iv_right"
+                        android:layout_toRightOf="@id/iv_left"
+                        android:scrollbars="none" >
+
+                        <LinearLayout
+                            android:id="@+id/ll_tab"
+                            android:layout_width="fill_parent"
+                            android:layout_height="fill_parent"
+                            android:orientation="horizontal" />
+                    </HorizontalScrollView>
+                </RelativeLayout>
+
+                <View
+                    android:id="@+id/view_show_tt"
+                    android:layout_width="fill_parent"
+                    android:layout_height="1px"
+                    android:background="@color/line_ebf1f0" />
+
+                <LinearLayout
+                    android:id="@+id/ll_show_tt"
+                    android:layout_width="fill_parent"
+                    android:layout_height="40dp"
+                    android:orientation="horizontal" >
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="16dp"
+                        android:layout_gravity="center_vertical"
+                        android:layout_marginLeft="5dp"
+                        android:src="@drawable/ic_home_tt" />
+
+                    <com.highnes.tour.view.textview.AutoTextView
+                        android:id="@+id/tv_news"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginRight="10dp"
+                        android:gravity="center_vertical"
+                        android:singleLine="true"
+                        android:textColor="@color/font_black_gray"
+                        android:textSize="12sp" />
+                </LinearLayout>
+
+                <View
+                    android:id="@+id/view_show_activities"
+                    android:layout_width="fill_parent"
+                    android:layout_height="10dp"
+                    android:background="@color/line_ebf1f0" />
+
+                <com.highnes.tour.view.gridview.MyGridView
+                    android:id="@+id/gv_activities"
+                    android:layout_width="match_parent"
+                    android:layout_height="60dp"
+                    android:layout_gravity="center"
+                    android:background="@color/line_ebf1f0"
+                    android:gravity="center"
+                    android:horizontalSpacing="1px"
+                    android:numColumns="2"
+                    android:scrollbars="none"
+                    android:verticalSpacing="1px" />
+
+                <View
+                    android:id="@+id/view_show_time"
+                    android:layout_width="fill_parent"
+                    android:layout_height="10dp"
+                    android:background="@color/line_ebf1f0" />
+
+                <LinearLayout
+                    android:id="@+id/ll_time"
+                    android:layout_width="fill_parent"
+                    android:layout_height="50dp"
+                    android:orientation="horizontal" >
+
+                    <!--<View-->
+                        <!--android:layout_width="5dp"-->
+                        <!--android:layout_height="25dp"-->
+                        <!--android:layout_gravity="center_vertical"-->
+                        <!--android:background="@color/theme_blue" />-->
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="fill_parent"
+                        android:layout_marginLeft="10dp"
+                        android:layout_weight="1"
+                        android:gravity="center_vertical"
+                        android:text="限时秒杀"
+                        android:textColor="@color/theme_blue"
+                        android:textSize="20sp" />
+
+                    <TextView
+                        android:id="@+id/tv_time_more"
+                        android:layout_width="wrap_content"
+                        android:layout_height="fill_parent"
+                        android:gravity="center_vertical"
+                        android:paddingLeft="10dp"
+                        android:paddingRight="20dp"
+                        android:text="更多"
+                        android:textColor="@color/font_black_gray"
+                        android:textSize="12sp" />
+                </LinearLayout>
+
+                <com.highnes.tour.view.gridview.MyGridView
+                    android:id="@+id/gv_times"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:background="@color/line_ebf1f0"
+                    android:gravity="center"
+                    android:horizontalSpacing="10dp"
+                    android:numColumns="2"
+                    android:scrollbars="none"
+                    android:verticalSpacing="1px" />
+
+                <View
+                    android:id="@+id/view_show_mp"
+                    android:layout_width="fill_parent"
+                    android:layout_height="10dp"
+                    android:background="@color/line_ebf1f0" />
+
+                <LinearLayout
+                    android:id="@+id/ll_mp"
+                    android:layout_width="fill_parent"
+                    android:layout_height="50dp"
+                    android:orientation="horizontal" >
+
+                    <!--<View-->
+                        <!--android:layout_width="5dp"-->
+                        <!--android:layout_height="25dp"-->
+                        <!--android:layout_gravity="center_vertical"-->
+                        <!--android:background="@color/theme_orange" />-->
+
+                    <ImageView
+                        android:layout_width="120dp"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_marginLeft="10dp"
+                        android:src="@drawable/ic_home_mp" />
+
+                    <View
+                        android:layout_width="0dp"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="1" />
+
+                    <TextView
+                        android:id="@+id/tv_ticket_more"
+                        android:layout_width="wrap_content"
+                        android:layout_height="fill_parent"
+                        android:gravity="center_vertical"
+                        android:paddingLeft="10dp"
+                        android:paddingRight="20dp"
+                        android:text="更多"
+                        android:textColor="@color/font_black_gray"
+                        android:textSize="12sp" />
+                </LinearLayout>
+
+                <com.highnes.tour.view.listview.MyListView
+                    android:id="@+id/lv_ticket"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:divider="@null"
+                    android:dividerHeight="0dp"
+                    android:gravity="center"
+                    android:scrollbars="none" />
+
+                <View
+                    android:id="@+id/view_hotel"
+                    android:layout_width="fill_parent"
+                    android:layout_height="10dp"
+                    android:background="@color/line_ebf1f0" />
+
+                <LinearLayout
+                    android:id="@+id/ll_hotel"
+                    android:layout_width="fill_parent"
+                    android:layout_height="50dp"
+                    android:orientation="horizontal" >
+
+                    <!--<View-->
+                        <!--android:layout_width="5dp"-->
+                        <!--android:layout_height="25dp"-->
+                        <!--android:layout_gravity="center_vertical"-->
+                        <!--android:background="@color/theme_black" />-->
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="fill_parent"
+                        android:layout_marginLeft="10dp"
+                        android:layout_weight="1"
+                        android:gravity="center_vertical"
+                        android:text="热门酒店"
+                        android:textColor="@color/theme_black"
+                        android:textSize="20sp" />
+
+                    <TextView
+                          android:id="@+id/tv_hotel_more"
+                        android:layout_width="wrap_content"
+                        android:layout_height="fill_parent"
+                        android:gravity="center_vertical"
+                        android:paddingLeft="10dp"
+                        android:paddingRight="20dp"
+                        android:text="更多"
+                        android:textColor="@color/font_black_gray"
+                        android:textSize="12sp" />
+                </LinearLayout>
+
+                <com.highnes.tour.view.gridview.MyGridView
+                    android:id="@+id/gv_hotel"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:background="@color/line_ebf1f0"
+                    android:gravity="center"
+                    android:horizontalSpacing="10dp"
+                    android:numColumns="3"
+                    android:scrollbars="none"
+                    android:verticalSpacing="1px" />
+
+                <View
+                    android:layout_width="fill_parent"
+                    android:layout_height="10dp"
+                    android:background="@color/line_ebf1f0" />
+            </LinearLayout>
+        </com.highnes.tour.view.pull.PullableScrollView>
+
+        <include layout="@layout/allview_load_more" />
+    </com.highnes.tour.view.pull.PullToRefreshLayout>
+    <!-- title -->
+
+    <LinearLayout
+        android:id="@+id/ll_title"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:orientation="vertical" >
+    </LinearLayout>
+
+</RelativeLayout>

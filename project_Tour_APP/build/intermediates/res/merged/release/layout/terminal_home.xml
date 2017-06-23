@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ripple="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/white" >
+
+    <com.highnes.tour.view.pull.PullToRefreshLayout
+        android:id="@+id/pull"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <include layout="@layout/allview_refresh_head" />
+
+        <com.highnes.tour.view.pull.PullableScrollView
+            android:id="@+id/sv_shops"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:scrollbars="none" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical" >
+
+                <!-- 主题图片 -->
+
+                <LinearLayout
+                    android:id="@+id/poster_container"
+                    android:layout_width="match_parent"
+                    android:layout_height="180dp"
+                    android:orientation="vertical" >
+                </LinearLayout>
+                <!-- 中间的菜单 -->
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="65dp"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginTop="10dp"
+                    android:orientation="horizontal" >
+
+                    <com.highnes.tour.view.layout.RippleView
+                        android:id="@+id/rv_menu_0"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        ripple:rv_type="rectangle" >
+
+                        <TextView
+                            android:id="@+id/tv_menu_0"
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentBottom="true"
+                            android:layout_centerHorizontal="true"
+                            android:layout_marginTop="5dp"
+                            android:gravity="center"
+                            android:text="景点门票"
+                            android:textColor="@color/theme_orange"
+                            android:textSize="12sp" />
+
+                        <ImageView
+                            android:layout_width="50dp"
+                            android:layout_height="50dp"
+                            android:layout_above="@id/tv_menu_0"
+                            android:layout_centerHorizontal="true"
+                            android:src="@drawable/ic_home_menu0" />
+
+                        <ImageView
+                            android:layout_width="25dp"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentRight="true"
+                            android:layout_alignParentTop="true"
+                            android:layout_marginRight="10dp"
+                            android:layout_marginTop="5dp"
+                            android:src="@drawable/btn_hot" />
+                    </com.highnes.tour.view.layout.RippleView>
+
+                    <com.highnes.tour.view.layout.RippleView
+                        android:id="@+id/rv_menu_1"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        ripple:rv_type="rectangle" >
+
+                        <TextView
+                            android:id="@+id/tv_menu_1"
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentBottom="true"
+                            android:layout_centerHorizontal="true"
+                            android:layout_marginTop="5dp"
+                            android:gravity="center"
+                            android:text="旅游度假"
+                            android:textColor="@color/font_black_normal"
+                            android:textSize="12sp" />
+
+                        <ImageView
+                            android:layout_width="50dp"
+                            android:layout_height="50dp"
+                            android:layout_above="@id/tv_menu_1"
+                            android:layout_centerHorizontal="true"
+                            android:src="@drawable/ic_home_menu1" />
+                    </com.highnes.tour.view.layout.RippleView>
+
+                    <com.highnes.tour.view.layout.RippleView
+                        android:id="@+id/rv_menu_2"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        ripple:rv_type="rectangle" >
+
+                        <TextView
+                            android:id="@+id/tv_menu_2"
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentBottom="true"
+                            android:layout_centerHorizontal="true"
+                            android:layout_marginTop="5dp"
+                            android:gravity="center"
+                            android:text="酒店"
+                            android:textColor="@color/font_black_normal"
+                            android:textSize="12sp" />
+
+                        <ImageView
+                            android:layout_width="50dp"
+                            android:layout_height="50dp"
+                            android:layout_above="@id/tv_menu_2"
+                            android:layout_centerHorizontal="true"
+                            android:src="@drawable/ic_home_menu2" />
+                    </com.highnes.tour.view.layout.RippleView>
+
+                    <com.highnes.tour.view.layout.RippleView
+                        android:id="@+id/rv_menu_3"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:visibility="gone"
+                        ripple:rv_type="rectangle" >
+
+                        <TextView
+                            android:id="@+id/tv_menu_3"
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentBottom="true"
+                            android:layout_centerHorizontal="true"
+                            android:layout_marginTop="5dp"
+                            android:gravity="center"
+                            android:text="美食"
+                            android:textColor="@color/font_black_normal"
+                            android:textSize="12sp" />
+
+                        <ImageView
+                            android:layout_width="50dp"
+                            android:layout_height="50dp"
+                            android:layout_above="@id/tv_menu_3"
+                            android:layout_centerHorizontal="true"
+                            android:src="@drawable/ic_home_menu3" />
+                    </com.highnes.tour.view.layout.RippleView>
+
+                    <com.highnes.tour.view.layout.RippleView
+                        android:id="@+id/rv_menu_4"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        ripple:rv_type="rectangle" >
+
+                        <TextView
+                            android:id="@+id/tv_menu_4"
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentBottom="true"
+                            android:layout_centerHorizontal="true"
+                            android:layout_marginTop="5dp"
+                            android:gravity="center"
+                            android:text="飞机票"
+                            android:textColor="@color/font_black_normal"
+                            android:textSize="12sp" />
+
+                        <ImageView
+                            android:layout_width="50dp"
+                            android:layout_height="50dp"
+                            android:layout_above="@id/tv_menu_4"
+                            android:layout_centerHorizontal="true"
+                            android:src="@drawable/ic_home_menu4" />
+                    </com.highnes.tour.view.layout.RippleView>
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="65dp"
+                    android:layout_marginBottom="10dp"
+                    android:visibility="gone"
+                    android:orientation="horizontal" >
+
+                    <!--<com.highnes.tour.view.layout.RippleView-->
+                    <!--android:id="@+id/rv_menu_4"-->
+                    <!--android:layout_width="0dp"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:layout_weight="1"-->
+                    <!--ripple:rv_type="rectangle" >-->
+
+                    <!--<TextView-->
+                    <!--android:id="@+id/tv_menu_4"-->
+                    <!--android:layout_width="fill_parent"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:layout_alignParentBottom="true"-->
+                    <!--android:layout_centerHorizontal="true"-->
+                    <!--android:layout_marginTop="5dp"-->
+                    <!--android:gravity="center"-->
+                    <!--android:text="飞机票"-->
+                    <!--android:textColor="@color/font_black_normal"-->
+                    <!--android:textSize="12sp" />-->
+
+                    <!--<ImageView-->
+                    <!--android:layout_width="50dp"-->
+                    <!--android:layout_height="50dp"-->
+                    <!--android:layout_above="@id/tv_menu_4"-->
+                    <!--android:layout_centerHorizontal="true"-->
+                    <!--android:src="@drawable/ic_home_menu4" />-->
+                    <!--</com.highnes.tour.view.layout.RippleView>-->
+
+                    <com.highnes.tour.view.layout.RippleView
+                        android:id="@+id/rv_menu_5"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        ripple:rv_type="rectangle" >
+
+                        <TextView
+                            android:id="@+id/tv_menu_5"
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentBottom="true"
+                            android:layout_centerHorizontal="true"
+                            android:layout_marginTop="5dp"
+                            android:gravity="center"
+                            android:text="火车票"
+                            android:textColor="@color/font_black_normal"
+                            android:textSize="12sp" />
+
+                        <ImageView
+                            android:layout_width="50dp"
+                            android:layout_height="50dp"
+                            android:layout_above="@id/tv_menu_5"
+                            android:layout_centerHorizontal="true"
+                            android:src="@drawable/ic_home_menu5" />
+                    </com.highnes.tour.view.layout.RippleView>
+
+                    <com.highnes.tour.view.layout.RippleView
+                        android:id="@+id/rv_menu_6"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        ripple:rv_type="rectangle" >
+
+                        <TextView
+                            android:id="@+id/tv_menu_6"
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentBottom="true"
+                            android:layout_centerHorizontal="true"
+                            android:layout_marginTop="5dp"
+                            android:gravity="center"
+                            android:text="土特产"
+                            android:textColor="@color/font_black_normal"
+                            android:textSize="12sp" />
+
+                        <ImageView
+                            android:layout_width="50dp"
+                            android:layout_height="50dp"
+                            android:layout_above="@id/tv_menu_6"
+                            android:layout_centerHorizontal="true"
+                            android:src="@drawable/ic_home_menu6" />
+                    </com.highnes.tour.view.layout.RippleView>
+
+                    <com.highnes.tour.view.layout.RippleView
+                        android:id="@+id/rv_menu_7"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        ripple:rv_type="rectangle" >
+
+                        <TextView
+                            android:id="@+id/tv_menu_7"
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentBottom="true"
+                            android:layout_centerHorizontal="true"
+                            android:layout_marginTop="5dp"
+                            android:gravity="center"
+                            android:text="娱乐"
+                            android:textColor="@color/font_black_normal"
+                            android:textSize="12sp" />
+
+                        <ImageView
+                            android:layout_width="50dp"
+                            android:layout_height="50dp"
+                            android:layout_above="@id/tv_menu_7"
+                            android:layout_centerHorizontal="true"
+                            android:src="@drawable/ic_home_menu7" />
+                    </com.highnes.tour.view.layout.RippleView>
+                </LinearLayout>
+
+                <View
+                    android:layout_width="fill_parent"
+                    android:layout_height="1px"
+                    android:background="@color/line_ebf1f0" />
+                <com.highnes.tour.view.gridview.MyGridView
+                    android:layout_marginTop="10dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:numColumns="4"
+                    android:gravity="center"
+                    android:horizontalSpacing="10dp"
+                    android:verticalSpacing="20dp"
+                    android:scrollbars="none"
+                    android:id="@+id/find_util"></com.highnes.tour.view.gridview.MyGridView>
+                <RelativeLayout
+                    android:layout_marginTop="10dp"
+                    android:layout_width="match_parent"
+                    android:background="@drawable/bottom"
+                    android:layout_height="wrap_content">
+                    <TextView
+                        android:id="@+id/home_update"
+                        android:layout_marginTop="40dp"
+                        android:layout_alignParentRight="true"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/shape_update"
+                        android:textColor="@color/white"
+                        android:text="更新"/>
+
+                    <ImageView
+                        android:layout_marginLeft="10dp"
+                        android:id="@+id/app_upload_iv"
+                        android:layout_width="50dp"
+                        android:layout_height="50dp"
+                        android:src="@drawable/qrcode_app"/>
+                    <ImageView
+                        android:layout_marginLeft="10dp"
+                        android:layout_toRightOf="@+id/app_upload_iv"
+                        android:id="@+id/wechat_iv"
+                        android:layout_width="50dp"
+                        android:layout_height="50dp"
+                        android:src="@drawable/qrcode_wenxin"/>
+                    <TextView
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginRight="10dp"
+                        android:layout_toRightOf="@+id/wechat_iv"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="电话：400-011-0101地址：重庆市北部新区天宫殿街道泰山大道东段119号邮箱：jgz@jgz1618.comCopyright © 2016-2017 金龟子旅行jgz1618.com 版权所有
+                        "/>
+                </RelativeLayout>
+            </LinearLayout>
+        </com.highnes.tour.view.pull.PullableScrollView>
+
+        <include layout="@layout/allview_load_more" />
+    </com.highnes.tour.view.pull.PullToRefreshLayout>
+
+</RelativeLayout>

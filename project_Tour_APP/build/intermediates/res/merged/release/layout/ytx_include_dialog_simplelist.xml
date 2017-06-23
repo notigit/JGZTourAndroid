@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="1.0px"
+        android:background="@color/devideline_listview" />
+
+    <ListView
+        android:id="@+id/listview"
+        style="@style/Style_Scrollable"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:divider="@color/devideline_listview"
+        android:dividerHeight="1.0px"
+        android:listSelector="@drawable/ytx_list_selector_transition" />
+
+</LinearLayout>

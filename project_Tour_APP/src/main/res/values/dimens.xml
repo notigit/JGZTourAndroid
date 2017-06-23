@@ -1,0 +1,84 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="title_height">50dp</dimen>
+    <dimen name="title_height_v19">68dp</dimen>
+    <dimen name="title_height_padding_v19">18dp</dimen>
+    <dimen name="title_img_height">50dp</dimen>
+    <dimen name="title_view_height">30dp</dimen>
+    <dimen name="title_img_width">40dp</dimen>
+    <dimen name="title_img_pading">8dp</dimen>
+    <dimen name="nav_title_text_size">20sp</dimen>
+    <dimen name="nav_btn_text_size">17sp</dimen>
+    <dimen name="nav_btn_width">50dp</dimen>
+    <dimen name="item_btn_text_size">18sp</dimen>
+    <dimen name="image_height">75dp</dimen>
+    <dimen name="timer_confirm_padding">12dp</dimen>
+    <dimen name="timer_h">180dp</dimen>
+    <dimen name="timer_wn">240dp</dimen>
+    <dimen name="timer_w">70dp</dimen>
+    <dimen name="timer_wh">80dp</dimen>
+    <dimen name="numbertimer_wh">150dp</dimen>
+    <dimen name="warnmrg_title_heigth">50dp</dimen>
+    <dimen name="warnmrg_text_size">17sp</dimen>
+    <dimen name="address_heigth">30dp</dimen>
+    <!-- 底部菜单高度 -->
+    <dimen name="bottom_menu_heigth">65dp</dimen>
+    <dimen name="bottom_menu_heigth_normal">55dp</dimen>
+    <!-- 弹框所需 -->
+    <!-- padding -->
+    <dimen name="padding_svprogresshuddefault">15dp</dimen>
+    <!-- 窗口最小宽度 -->
+    <dimen name="size_minwidth_svprogresshuddefault">120dp</dimen>
+    <!-- 图片宽高 -->
+    <dimen name="size_image_bigloading">80dp</dimen>
+    <!-- 图片宽高 -->
+    <dimen name="size_image_smallloading">60dp</dimen>
+    <!-- 圆角 -->
+    <dimen name="radius_svprogresshuddefault">25px</dimen>
+    <!-- 提示的文字大小 -->
+    <dimen name="textSize_svprogresshuddefault_msg">15sp</dimen>
+    <dimen name="margintop_svprogresshuddefault_msg">10dp</dimen>
+
+    <!-- viewpage+listview无冲 -->
+    <dimen name="view_small_padding">1dp</dimen>
+    <dimen name="view_padding">6dp</dimen>
+    <dimen name="edittext_height">45dp</dimen>
+    <dimen name="btn_height">55dp</dimen>
+    <dimen name="MinDialogWidth">320.0dip</dimen>
+    <dimen name="dialog_padding">15.0dip</dimen>
+    <dimen name="dialog_round_radius">4.0dip</dimen>
+    <dimen name="text_list_title">16.0sp</dimen>
+    <dimen name="text_list_desc">13.0sp</dimen>
+    <!-- img select -->
+    <dimen name="image_size">120dp</dimen>
+    <dimen name="space_size">2dp</dimen>
+    <dimen name="folder_cover_size">72dp</dimen>
+    <dimen name="fab_size_normal">56dp</dimen>
+    <dimen name="fab_size_mini">40dp</dimen>
+    <dimen name="fab_icon_size">24dp</dimen>
+    <dimen name="fab_plus_icon_size">14dp</dimen>
+    <dimen name="fab_plus_icon_stroke">2dp</dimen>
+    <dimen name="fab_shadow_offset">3dp</dimen>
+    <dimen name="fab_shadow_radius">9dp</dimen>
+    <dimen name="fab_stroke_width">1dp</dimen>
+    <dimen name="fab_actions_spacing">10dp</dimen>
+    <dimen name="fab_labels_margin">8dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="tag_corner_radius">20.0dip</dimen>
+    <dimen name="tag_horizontal_spacing">8.0dip</dimen>
+    <dimen name="tag_vertical_spacing">6.0dip</dimen>
+    <dimen name="common_margin">12.0dip</dimen>
+    <dimen name="common_margin_10">10.0dip</dimen>
+    <!-- 日期 -->
+    <dimen name="calendar_day_headers_paddingbottom">4dp</dimen>
+    <dimen name="calendar_month_topmargin">16dp</dimen>
+    <dimen name="calendar_month_title_bottommargin">4dp</dimen>
+    <dimen name="calendar_text_medium">18sp</dimen>
+    <dimen name="calendar_text_small">14sp</dimen>
+    <dimen name="dimen_margin_circle">4dp</dimen>
+    <dimen name="dimen_margin_circle.negative">-4dp</dimen>
+
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/document.iml" filepath="$PROJECT_DIR$/document.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project_Tour_APP/project_Tour_APP.iml" filepath="$PROJECT_DIR$/project_Tour_APP/project_Tour_APP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project_Tour_social_sdk_library/project_Tour_social_sdk_library.iml" filepath="$PROJECT_DIR$/project_Tour_social_sdk_library/project_Tour_social_sdk_library.iml" />
+    </modules>
+  </component>
+</project>

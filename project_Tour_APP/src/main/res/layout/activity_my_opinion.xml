@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ripple="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/xml_bg_gray" >
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_margin="10dp" >
+
+        <EditText
+            android:id="@+id/et_content"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/shape_radius_white5"
+            android:gravity="top|left"
+            android:hint="请写下您的意见或建议(500字以内)"
+            android:maxLength="500"
+            android:padding="10dp"
+            android:textColor="@color/font_black_normal"
+            android:textColorHint="@color/et_hint"
+            android:textSize="14sp" />
+
+        <com.highnes.tour.view.layout.RippleView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/et_content"
+            android:layout_marginTop="40dp"
+            ripple:rv_type="rectangle" >
+
+            <Button
+                android:id="@+id/bt_submit"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/shape_radius_green5"
+                android:gravity="center"
+                android:text="提交"
+                android:textColor="@color/white"
+                android:textSize="14sp" />
+        </com.highnes.tour.view.layout.RippleView>
+
+        <TextView
+            android:id="@+id/tv_hint"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/et_content"
+            android:layout_alignRight="@+id/et_content"
+            android:layout_margin="10dp"
+            android:text="0/500"
+            android:textColor="@color/et_hint"
+            android:textSize="12sp" />
+    </RelativeLayout>
+
+</RelativeLayout>

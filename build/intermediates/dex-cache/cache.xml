@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\jgz\document\project_Tour_APP\build\intermediates\exploded-aar\document\project_Tour_social_sdk_library\unspecified\jars\libs\libapshare.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bcec6acb462b9fb31a0c106ee01e1d7397175a8f">
+        <dex dex="D:\jgz\document\project_Tour_APP\build\intermediates\pre-dexed\release\libapshare_506774dbe8ef3792ba8c8dc9ea06e81ca2f4b5ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\jgz\document\project_Tour_APP\libs\json_simple-1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5e303a03d04e6788dddfa3655272580ae0fc13bb">
+        <dex dex="D:\jgz\document\project_Tour_APP\build\intermediates\pre-dexed\release\json_simple-1.1_20c40d2db1bdf87cf131c8cb663d6afd4097d335.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\jgz\document\project_Tour_APP\libs\httpcore-4.3.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="31fbbff1ddbf98f3aa7377c94d33b0447c646b6e">
+        <dex dex="D:\jgz\document\project_Tour_APP\build\intermediates\pre-dexed\release\httpcore-4.3.2_539d2f79443198824ae61f175e5d8de8899afed8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\jgz\document\project_Tour_APP\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="D:\jgz\document\project_Tour_APP\build\intermediates\pre-dexed\release\com.android.support-support-media-compat-25.1.1_523bfe2951d6f987104d77dbeb983bf2d7cd132e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\jgz\document\project_Tour_APP\libs\httpmime-4.3.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1dd0d38df9c6d21e893f2e52403f1cd99e91cd81">
+        <dex dex="D:\jgz\document\project_Tour_APP\build\intermediates\pre-dexed\release\httpmime-4.3.5_05f827fdb2c55a93486d54241ae29f619af12973.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\jgz\document\project_Tour_APP\build\intermediates\exploded-aar\document\project_Tour_social_sdk_library\unspecified\jars\libs\SocialSDK_WeiXin_1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b5fe9dcdaca41bdb2874b503a628723c658346c8">
+        <dex dex="D:\jgz\document\project_Tour_APP\build\intermediates\pre-dexed\release\SocialSDK_WeiXin_1_e05dfec2f1ec4409bf059c9ad8458f38d354acd3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Program Files\Android\Android Studio1\gradle\m2repository\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="D:\jgz\document\project_Tour_APP\build\intermediates\pre-dexed\release\gson-2.2.4_ea3566817aae63c8e87ab16e4d1ccfdc8d788289.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\jgz\document\project_Tour_APP\build\intermediates\exploded-aar\document\project_Tour_social_sdk_library\unspecified\jars\libs\bolts-android-1.1.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3299434a5ced5ea151e559adb4b840b16bfb94df">
+        <dex dex="D:\jgz\document\project_Tour_APP\build\intermediates\pre-dexed\release\bolts-android-1.1.4_7433deff07df9e79d60e1a9e6e7771c82d92cf95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\jgz\document\project_Tour_APP\build\intermediates\exploded-aar\document\project_Tour_social_sdk_library\unspecified\jars\libs\mta-sdk-1.6.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="418868f1416898ed88da34f10e4d770502a8d6b7">
+        <dex dex="D:\jgz\document\project_Tour_APP\build\intermediates\pre-dexed\release\mta-sdk-1.6.2_d9cf1388beb00f4428dc9b6e4940eb96dd55ca90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\jgz\document\project_Tour_APP\build\intermediates\exploded-aar\document\project_Tour_social_sdk_library\unspecified\jars\libs\volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="665cdcc34ce1b904988530a63132163e8fc1efba">
+        <dex dex="D:\jgz\document\project_Tour_APP\build\intermediates\pre-dexed\release\volley_fee2aaf1fb9caf7aad52cb4a5a0ca57fc16247ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\jgz\document\project_Tour_APP\build\intermediates\exploded-aar\document\project_Tour_social_sdk_library\unspecified\jars\libs\umeng_social_sdk.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f938b938067ee63015a7d8ac03619ae96b14986">
+        <dex dex="D:\jgz\document\project_Tour_APP\build\intermediates\pre-dexed\release\umeng_social_sdk_4a6ad5bed9d66524b09aecd0c1a1c08b0a72592a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\jgz\document\project_Tour_APP\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a43cf9e271b5bc564e880a0a4be63ab9c69c97f8">
+        <dex dex="D:\jgz\document\project_Tour_APP\build\intermediates\pre-dexed\release\nineoldandroids-2.4.0_1ce1c6c72a6a2b4576df088bba9d5e00d2322960.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\jgz\document\project_Tour_APP\build\intermediates\exploded-aar\document\project_Tour_social_sdk_library\unspecified\jars\libs\open_sdk_r5509.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a9aa09ddac7478e982b3ff55f7e32a7e51f67dbf">
+        <dex dex="D:\jgz\document\project_Tour_APP\build\intermediates\pre-dexed\release\open_sdk_r5509_8db9aaaea697b9ef58d769d2a969b807e07e9d29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\jgz\document\project_Tour_APP\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="D:\jgz\document\project_Tour_APP\build\intermediates\pre-dexed\release\com.android.support-support-core-ui-25.1.1_fa2e8ead23799d092fb9e7108c838875b1d89c4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\jgz\document\project_Tour_APP\libs\BaiduLBS_Android.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1e8990e69c485eb132dc92e4b0b66444908fd86b">
+        <dex dex="D:\jgz\document\project_Tour_APP\build\intermediates\pre-dexed\release\BaiduLBS_Android_9d8a921f6763f9b69e13bb47a716b521e935eb6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\jgz\document\project_Tour_APP\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="D:\jgz\document\project_Tour_APP\build\intermediates\pre-dexed\release\com.android.support-support-fragment-25.1.1_f268705064057d17f1de6dd04fb867435413fc6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\jgz\document\project_Tour_APP\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="D:\jgz\document\project_Tour_APP\build\intermediates\pre-dexed\release\com.android.support-support-core-utils-25.1.1_aef5af62b7bd52c6ce015cc7d2e72fefce2e1b5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\jgz\document\project_Tour_APP\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="D:\jgz\document\project_Tour_APP\build\intermediates\pre-dexed\release\com.android.support-support-compat-25.1.1_8b66c2c7201312b73f2ec30f97223438a68a461e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\jgz\document\project_Tour_APP\libs\locSDK_3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09224a1883da8b5bd37e766f4fab80570d879898">
+        <dex dex="D:\jgz\document\project_Tour_APP\build\intermediates\pre-dexed\release\locSDK_3.1_4ef2c7bc9b8b1746493e64a81de068ec91a00065.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\jgz\document\project_Tour_APP\libs\sun.misc.BASE64Decoder.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="acd93e3727886196f9b8434279ff445ba8611186">
+        <dex dex="D:\jgz\document\project_Tour_APP\build\intermediates\pre-dexed\release\sun.misc.BASE64Decoder_6d2a7f732d0769d6a53063f9aeda920208af2196.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\jgz\document\project_Tour_APP\libs\picasso-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="D:\jgz\document\project_Tour_APP\build\intermediates\pre-dexed\release\picasso-2.4.0_7e4a1bbb0d948f0bc6a0a89bf9897eed37036f81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\jgz\document\project_Tour_APP\libs\universal-image-loader-1.9.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="D:\jgz\document\project_Tour_APP\build\intermediates\pre-dexed\release\universal-image-loader-1.9.3_a81a34ccd74fe2250a23627005fd2d49a37288f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\jgz\document\project_Tour_APP\build\intermediates\exploded-aar\document\project_Tour_social_sdk_library\unspecified\jars\libs\SocialSDK_QQZone_3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3fea6e2492b1df9c608de20b63f981b39b3db992">
+        <dex dex="D:\jgz\document\project_Tour_APP\build\intermediates\pre-dexed\release\SocialSDK_QQZone_3_e75aa4b066bdbc8eec9f6b3c6416d8d2f64707aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="D:\jgz\document\project_Tour_APP\build\intermediates\pre-dexed\release\support-annotations-25.1.1_d267883828b8e28284d50c83bcb37ca5a14b5a5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\jgz\document\project_Tour_APP\libs\jpush-android-2.1.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="99c80319fb45b23fbc516787fdd3cf8940fda4b2">
+        <dex dex="D:\jgz\document\project_Tour_APP\build\intermediates\pre-dexed\release\jpush-android-2.1.9_c4df79ad066f87441231e14d783dd7345bd53cfe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\jgz\document\project_Tour_APP\libs\alipaySdk-20160825.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="08cfc3ced256c0e40853f35882c6bd23a191b416">
+        <dex dex="D:\jgz\document\project_Tour_APP\build\intermediates\pre-dexed\release\alipaySdk-20160825_c22ea31935e1d32839c2be019043c62b82060069.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\jgz\document\project_Tour_APP\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\jgz\document\project_Tour_APP\build\intermediates\pre-dexed\release\com.android.support-support-v4-25.1.1_089580c370967bb1001ef7cc0e5a056394d17ed7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\jgz\document\project_Tour_APP\build\intermediates\exploded-aar\document\project_Tour_social_sdk_library\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="65560470292ca81629a1cb6eabf12a7baeb65f50">
+        <dex dex="D:\jgz\document\project_Tour_APP\build\intermediates\pre-dexed\release\document-project_Tour_social_sdk_library-unspecified_0705cf70f2bc2376dcf2bdda47e5bf50dec6aa80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\jgz\document\project_Tour_APP\build\intermediates\exploded-aar\document\project_Tour_social_sdk_library\unspecified\jars\libs\SocialSDK_WeiXin_2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47c553a17cdf84dafd50a8e97888dea89d045aaf">
+        <dex dex="D:\jgz\document\project_Tour_APP\build\intermediates\pre-dexed\release\SocialSDK_WeiXin_2_a5d24ed3394276b086ea4fee7ef33bc5d9927539.jar" />
+    </item>
+
+</items>

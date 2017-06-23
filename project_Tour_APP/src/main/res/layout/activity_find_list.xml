@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ripple="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/server_layer">
+
+    <LinearLayout
+        android:layout_marginTop="48dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="旅我同行"
+            android:gravity="center"
+            android:textSize="23sp" />
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:text="畅想人生"
+            android:textSize="23sp" />
+    </LinearLayout>
+    <TextView
+        android:layout_marginTop="127dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#ff9933"
+        android:gravity="center"
+        android:text="金龟子旅行服务电话"
+        android:textSize="14sp"/>
+    <TextView
+        android:id="@+id/server_phone"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="177dp"
+        android:drawablePadding="12dp"
+        android:drawableLeft="@drawable/server_phone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#ff9933"
+        android:gravity="center"
+        android:text="400-011-0101"
+        android:textSize="25sp"/>
+</RelativeLayout>
