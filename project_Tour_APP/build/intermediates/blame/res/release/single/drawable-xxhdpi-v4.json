@@ -28,28 +28,28 @@
         "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable-xxhdpi\\ic_star_gary.png"
     },
     {
-        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\ic_default_img.png",
-        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable-xxhdpi\\ic_default_img.png"
-    },
-    {
         "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\ic_jgz4.png",
         "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable-xxhdpi\\ic_jgz4.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\ic_default_img.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable-xxhdpi\\ic_default_img.png"
     },
     {
         "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\ic_jgz0down.png",
         "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable-xxhdpi\\ic_jgz0down.png"
     },
     {
-        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\icon_deletepic_unfocused.png",
-        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable-xxhdpi\\icon_deletepic_unfocused.png"
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\btn_dot_red.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable-xxhdpi\\btn_dot_red.png"
     },
     {
         "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\ic_home_menu3.png",
         "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable-xxhdpi\\ic_home_menu3.png"
     },
     {
-        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\btn_dot_red.png",
-        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable-xxhdpi\\btn_dot_red.png"
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\icon_deletepic_unfocused.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable-xxhdpi\\icon_deletepic_unfocused.png"
     },
     {
         "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\ic_my_back.png",
@@ -84,12 +84,12 @@
         "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable-xxhdpi\\ic_heart_p.png"
     },
     {
-        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\ic_refrashbar_cancel_press.png",
-        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable-xxhdpi\\ic_refrashbar_cancel_press.png"
-    },
-    {
         "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\ic_up.png",
         "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable-xxhdpi\\ic_up.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\ic_refrashbar_cancel_press.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable-xxhdpi\\ic_refrashbar_cancel_press.png"
     },
     {
         "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\ic_home_menu11.png",
@@ -104,12 +104,12 @@
         "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable-xxhdpi\\ic_bobby_0.png"
     },
     {
-        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\ic_pwd.png",
-        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable-xxhdpi\\ic_pwd.png"
-    },
-    {
         "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\ic_tour_collect_p.png",
         "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable-xxhdpi\\ic_tour_collect_p.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\ic_pwd.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable-xxhdpi\\ic_pwd.png"
     },
     {
         "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\com_facebook_button_send_icon.png",
@@ -132,12 +132,12 @@
         "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable-xxhdpi\\ic_menu_up.png"
     },
     {
-        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\ic_my_cart.png",
-        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable-xxhdpi\\ic_my_cart.png"
-    },
-    {
         "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\ic_qianggou.png",
         "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable-xxhdpi\\ic_qianggou.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\ic_my_cart.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable-xxhdpi\\ic_my_cart.png"
     },
     {
         "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\ic_shuaxin.png",
@@ -236,12 +236,12 @@
         "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable-xxhdpi\\allview_pullup_icon_big.png"
     },
     {
-        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\ic_timer.png",
-        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable-xxhdpi\\ic_timer.png"
-    },
-    {
         "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\btn_unselected.png",
         "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable-xxhdpi\\btn_unselected.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\ic_timer.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable-xxhdpi\\ic_timer.png"
     },
     {
         "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\ic_find_ok_pressed.png",
@@ -484,12 +484,12 @@
         "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable-xxhdpi\\ic_collect_p.png"
     },
     {
-        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\ic_home_menu14.png",
-        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable-xxhdpi\\ic_home_menu14.png"
-    },
-    {
         "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\server_phone.png",
         "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable-xxhdpi\\server_phone.png"
+    },
+    {
+        "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\ic_home_menu14.png",
+        "source": "D:\\jgz\\document\\project_Tour_APP\\src\\main\\res\\drawable-xxhdpi\\ic_home_menu14.png"
     },
     {
         "merged": "D:\\jgz\\document\\project_Tour_APP\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\ic_home_menu4.png",

@@ -2,8 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.highnes.tour"
     android:versionCode="200"
-    android:versionName="2.0.0" > <!-- android:versionCode="2000" -->
-    <!-- android:versionName="2.0.0" -->
+    android:versionName="2.0.3" > <!-- android:versionCode="2003" -->
+    <!-- android:versionName="2.0.3" -->
     <uses-sdk
         android:minSdkVersion="14"
         android:targetSdkVersion="21" />
@@ -67,8 +67,7 @@
         <activity
             android:name="com.highnes.tour.ui.activities.GuidePageActivity"
             android:label="@string/app_name"
-            android:screenOrientation="portrait" >
-        </activity>
+            android:screenOrientation="portrait" />
         <!-- 框架主页面 -->
         <!-- 终端 -->
         <!-- <activity android:name=".ui.activities.TerminalHomeActivity" -->
@@ -134,7 +133,56 @@
         <activity
             android:name="com.highnes.tour.ui.activities.PHPWebViewActivity"
             android:label="@string/app_name"
-            android:screenOrientation="portrait" />
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.SENDTO" />
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <!-- 自定义scheme -->
+                <data android:scheme="bainuo" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.nfc.action.NDEF_DISCOVERED" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data android:scheme="bainuo" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.SEND" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <!-- 自定义scheme、host、...... 等属性 -->
+                <!-- <data -->
+                <!-- android:host="ui.email2.android.com" -->
+                <!-- android:pathPrefix="/compose" -->
+                <!-- android:scheme="content" /> -->
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.SEND" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <!-- <data android:host="gmail-ls" /> -->
+                <!-- <data android:scheme="gmail2from" /> -->
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.SEND" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="com.google.android.voicesearch.SELF_NOTE" />
+
+                <data android:mimeType="*/*" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.SEND_MULTIPLE" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data android:mimeType="*/*" />
+            </intent-filter>
+        </activity>
         <!-- 首页..门票 -->
         <activity
             android:name="com.highnes.tour.ui.activities.home.ticket.TicketActivity"
@@ -452,8 +500,7 @@
         <service
             android:name="com.baidu.location.f"
             android:enabled="true"
-            android:process=":remote" >
-        </service>
+            android:process=":remote" />
 
         <!-- meta-data需要写在application中 -->
         <!-- <meta-data -->
@@ -468,8 +515,7 @@
         <activity
             android:name="cn.jpush.android.ui.PopWinActivity"
             android:exported="false"
-            android:theme="@style/MyDialogStyle" >
-        </activity>
+            android:theme="@style/MyDialogStyle" />
 
         <!-- Required SDK核心功能 -->
         <activity
@@ -488,8 +534,7 @@
         <service
             android:name="cn.jpush.android.service.DownloadService"
             android:enabled="true"
-            android:exported="false" >
-        </service>
+            android:exported="false" />
 
         <!-- Required SDK 核心功能 -->
         <!-- 可配置android:process参数将PushService放在其他进程中 -->
@@ -602,12 +647,10 @@
         <!-- umengAppKey，replace to yours -->
         <meta-data
             android:name="UMENG_APPKEY"
-            android:value="57e1ef80e0f55aece30043ba" >
-        </meta-data>
+            android:value="57e1ef80e0f55aece30043ba" />
         <meta-data
             android:name="UMENG_CHANNEL"
-            android:value="Umeng" >
-        </meta-data>
+            android:value="Umeng" />
         <!-- **********************************友盟分享************************************ -->
 
 
@@ -616,14 +659,12 @@
             android:name="com.alipay.sdk.app.H5PayActivity"
             android:configChanges="orientation|keyboardHidden|navigation"
             android:exported="false"
-            android:screenOrientation="behind" >
-        </activity>
+            android:screenOrientation="behind" />
         <activity
             android:name="com.alipay.sdk.auth.AuthActivity"
             android:configChanges="orientation|keyboardHidden|navigation"
             android:exported="false"
-            android:screenOrientation="behind" >
-        </activity>
+            android:screenOrientation="behind" />
         <!-- **********************************支付宝************************************ -->
 
 

@@ -57,15 +57,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="C:\Program Files\Android\Android Studio1\gradle\m2repository\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="a60a5e993c98c864010053cb901b7eab25306568">
-        <dex dex="D:\jgz\document\project_Tour_APP\build\intermediates\pre-dexed\release\gson-2.2.4_ea3566817aae63c8e87ab16e4d1ccfdc8d788289.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="D:\jgz\document\project_Tour_APP\build\intermediates\exploded-aar\document\project_Tour_social_sdk_library\unspecified\jars\libs\bolts-android-1.1.4.jar"
         jumboMode="false"
         optimize="true"
@@ -171,6 +162,15 @@
         revision="25.0.2"
         sha1="09224a1883da8b5bd37e766f4fab80570d879898">
         <dex dex="D:\jgz\document\project_Tour_APP\build\intermediates\pre-dexed\release\locSDK_3.1_4ef2c7bc9b8b1746493e64a81de068ec91a00065.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android Studio\gradle\m2repository\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="D:\jgz\document\project_Tour_APP\build\intermediates\pre-dexed\release\gson-2.2.4_7ecee263f97411f60e31e313d5a1bc69dfc69b62.jar" />
     </item>
     <item
         is-multidex="false"

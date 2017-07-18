@@ -153,10 +153,16 @@ public class UrlSettings {
 
 	/** 首页..定位..热门城市 */
 	public static final String URL_HOME_CITY = URL_ + "/FindHitCity";
+	/**
+	 * 美食
+	 */
+	public static final String URL_HOME_MEISHI = "https://m.nuomi.com/cq/326/0-0/0-0-0-0-0";
+
 	/** 首页..快捷菜单..违章查询H5 */
 	// public static final String URL_H5_HOME_WZCX =
 	// "http://traffic.lashare.cn/vehicleviolation";
-	public static final String URL_H5_HOME_WZCX = "http://m.cheshouye.com/api/weizhang/?t=ff9600";
+//	public static final String URL_H5_HOME_WZCX = "http://m.cheshouye.com/api/weizhang/?t=ff9600";
+	public static final String URL_H5_HOME_WZCX = "http://m.weizhang8.cn";
 	/** 首页..快捷菜单..ETC查询H5 */
 	// public static final String URL_H5_HOME_ETC =
 	// "http://cqetcweixin.u-road.com/CQETCWechatAPIServer/mainserver/main?from=singlemessage&isappinstalled=0";

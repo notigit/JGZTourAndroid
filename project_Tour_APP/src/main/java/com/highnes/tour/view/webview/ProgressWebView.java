@@ -1,9 +1,12 @@
 package com.highnes.tour.view.webview;
 
 import android.content.Context;
+import android.content.Intent;
+import android.net.Uri;
 import android.net.http.SslError;
 import android.os.Handler;
 import android.util.AttributeSet;
+import android.util.Log;
 import android.webkit.GeolocationPermissions;
 import android.webkit.SslErrorHandler;
 import android.webkit.WebView;
@@ -70,6 +73,7 @@ public class ProgressWebView extends WebView {
 			callback.invoke(origin, true, false);
 			super.onGeolocationPermissionsShowPrompt(origin, callback);
 		}
+
 	}
 
 	// 重写此方法表明点击网页里面的链接还是在当前的webview里跳转，不跳到浏览器那边
@@ -101,7 +105,7 @@ public class ProgressWebView extends WebView {
 		public void onPageFinished(WebView view, String url) {
 			/**
 			 * 解决4.4+的问题,这是个大坑!!为了能兼容所有该版本.我在这里通过 webview 与js交互的方式来实现: 首先通过
-			 * js的语法来循环遍历接收到的数据,提取出带有”img”标签的内容,高度自适应,设置它的宽度占屏幕的100%:
+			 * js的语法来循环遍历接收到的数据,提取出带有”img”标签的内容,设置它的宽度占屏幕的100%,高度自适应:
 			 */
 			view.loadUrl("javascript:(function(){" + "var objs = document.getElementsByTagName('img'); " + "for(var i=0;i<objs.length;i++)  " + "{"
 					+ "var img = objs[i];   " + "    " + "img.style.maxWidth = '100%';   " + "img.style.height = 'auto';   " + "}" + "})()");
@@ -109,8 +113,33 @@ public class ProgressWebView extends WebView {
 
 		@Override
 		public boolean shouldOverrideUrlLoading(WebView view, String url) {
-			view.loadUrl(url);
-			return true;
+			if(url == null) return false;
+			if (url.startsWith("https://")||url.startsWith("http://")){
+//				Log.e("TAG", "shouldOverrideUrlLoading: 1");
+				return false;
+			}else{
+//				Log.e("TAG", "shouldOverrideUrlLoading: 2" );
+				return true;
+			}
+//			try {
+//				if(url.startsWith("weixin://") || url.startsWith("alipays://") ||
+//						url.startsWith("mailto://") || url.startsWith("tel://")
+//					//其他自定义的scheme
+//						) {
+//					Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(url));
+//					getContext().startActivity(intent);
+//					return true;
+//				}
+//			} catch (Exception e) { //防止crash (如果手机上没有安装处理某个scheme开头的url的APP, 会导致crash)
+//				return false;
+//			}
+//
+//			//处理http和https开头的url
+//			view.loadUrl(url);
+//			return true;
+			//第一版
+//			view.loadUrl(url);
+//			return true;
 		}
 		//		设置WebView接受所有网站的证书
 		@Override

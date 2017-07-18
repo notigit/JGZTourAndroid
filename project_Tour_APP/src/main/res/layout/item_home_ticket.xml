@@ -60,7 +60,6 @@
                     android:textColor="@color/black"
                     android:textSize="12sp" />
 
-
                 <TextView
                     android:layout_width="0dp"
                     android:layout_weight="1"
@@ -88,6 +87,7 @@
                     android:textColor="@color/font_black_gray"
                     android:textSize="12sp" />
                 <TextView
+                    android:visibility="gone"
                     android:layout_marginRight="5dp"
                     android:id="@+id/tv_item_money_old"
                     android:layout_width="wrap_content"

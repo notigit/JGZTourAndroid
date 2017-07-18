@@ -85,10 +85,10 @@ public class TicketActivity extends BaseActivity implements OnRefreshListener {
 	// 重庆景点
 	private TextView tvMenuTitle;
 
-	// 推荐的门票
+	// 本地的门票
 	private TicketAdapter ticketAdapter;
 	private ListView lvTicket;
-
+	//周边
 	private TicketAdapter nearbyAdapter;
 	private ListView lvNearby;
 

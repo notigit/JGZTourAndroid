@@ -60,6 +60,7 @@
                     android:textSize="12sp" />
 
                 <TextView
+                    android:visibility="gone"
                     android:id="@+id/tv_item_money_old"
                     android:layout_width="0dp"
                     android:layout_height="fill_parent"
@@ -71,9 +72,11 @@
                     android:textSize="12sp" />
 
                 <TextView
-                    android:layout_width="20dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
                     android:layout_height="fill_parent"
-                    android:gravity="center_vertical|left"
+                    android:gravity="center_vertical|right"
                     android:text="起"
                     android:textColor="@color/font_black_gray"
                     android:textSize="12sp" />

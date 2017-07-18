@@ -459,6 +459,9 @@ public class HomeFragment extends BaseFragment implements OnRefreshListener {
 			Bundle bundle = new Bundle();
 			bundle.putInt("mType", 10002);
 			bundle.putString("mUrl", UrlSettings.URL_PHP_H5_HOME_MEISHI+AppUtils.getTemp());
+			Log.e("TAG", UrlSettings.URL_PHP_H5_HOME_MEISHI+AppUtils.getTemp());
+//			bundle.putString("mUrl", UrlSettings.URL_HOME_MEISHI);
+//			Log.e("TAG", UrlSettings.URL_HOME_MEISHI);
 			openActivity(PHPWebViewActivity.class, bundle);
 			break;
 		// 火车票
@@ -522,6 +525,7 @@ public class HomeFragment extends BaseFragment implements OnRefreshListener {
 			bundle.putInt("mType", 1007);
 			bundle.putString("mTitle", "天气查询");
 			bundle.putString("mUrl", UrlSettings.URL_H5_HOME_TQCX);
+//			bundle.putString("mUrl", UrlSettings.URL_HOME_MEISHI);
 			openActivity(WebViewTitleActivity.class, bundle);
 		}
 
@@ -1098,8 +1102,8 @@ public class HomeFragment extends BaseFragment implements OnRefreshListener {
 	/**
 	 * Hotel 网络请求
 	 * 
-	 * @param isCurrCity
-	 *            true表示当前城市
+	 * @param
+	 *
 	 * 
 	 */
 	private void requestByHotel() {
